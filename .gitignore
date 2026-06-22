@@ -1,0 +1,3 @@
+# Ignore these files
+schema.ini
+.ipynb_checkpoints/
