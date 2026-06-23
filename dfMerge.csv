@@ -1,0 +1,756 @@
+,ProjectID,ProjectNam,ProjectMet,Status,Status_Rea,RiverBasin,CU,HUC,County,Ecoregion,GIS_Acres,Shape_STAr,Shape_STLe,BUFF_DIST,ORIG_FID,FREQUENCY,COUNT_ProjectID
+0,95756,601 East Stream Restoration Project,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105081010,Union,Southern Piedmont,12.77486597,556473.161443,9225.42333437,1.0,1,1.0,1.0
+1,95025,601 North II Stream Restoration Site,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105081010,Union,Southern Piedmont,12.31013058,536229.288094,7917.46710523,1.0,2,3.0,3.0
+2,92546,601 North Property,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105081010,Union,Southern Piedmont,8.45840864,368448.280246,5682.18051139,1.0,3,3.0,3.0
+3,92545,601 West Property,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105081010,Union,Southern Piedmont,12.81683608,558301.379513,8448.66995999,1.0,4,1.0,1.0
+4,9,Abbott,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201090010,Wake,Central Piedmont,5.58342721,243249.517994,2209.08468511,1.0,5,3.0,3.0
+5,6,ABC (G),Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020104,03020104110010,Beaufort,Northern Outer Coastal Plain,195.8203578,8529934.785879998,13592.9095172,1.0,6,1.0,1.0
+6,92244,Adam's Creek Sea Gate Woods,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020204,03020204050050,Carteret,Southern Outer Coastal Plain,122.89539161,5353323.25841,10927.7494933,1.0,7,4.0,4.0
+7,7,Adkins Branch (Phase II) (G),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020202,03020202060030,Lenoir,Southern Inner Coastal Plain,35.72536636,1556196.95869,19703.5244431,1.0,8,530.0,530.0
+8,95716,Agony Acres Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002020070,Guilford,Central Piedmont,30.73606252,1338862.88348,20380.2613131,1.0,9,1.0,1.0
+9,92139,Allen Tract,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101130050,Franklin,Central Piedmont,146.52108206,6382458.33469,30030.013155,1.0,10,10.0,10.0
+10,92526,Anderson Swamp,Full Delivery,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102060010,Edgecombe,Northern Inner Coastal Plain,24.99675058,1088858.45541,5602.81013071,1.0,11,1.0,1.0
+11,92487,Armstrong Property,Full Delivery,Inactive,Long Term Mangement,Tar-Pamlico,03020104,03020104090010,Hyde,Northern Outer Coastal Plain,25.0083184,1089362.34937,5090.1901797,1.0,12,1.0,1.0
+12,96312,Aycock Springs Stream and Wetland,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002030010,Alamance,Central Piedmont,13.24854559,577106.645801,8437.7746809,1.0,13,1.0,1.0
+13,17,Back Creek,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040105,03040105010050,Mecklenburg,Southern Piedmont,21.1860409,922863.941651,7564.32917559,1.0,14,,
+14,92666,Badin Inn,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040104,03040104010010,Stanly,Southern Piedmont,8.24461241,359135.316405,8475.70692185,1.0,15,1.0,1.0
+15,19,Bailey Fork (EBX),Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101050050,Burke,Northern Mountains,64.85846714,2825234.82862,30129.4935724,1.0,16,,
+16,20,Bailey Fork (WRC),Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101050050,Burke,Northern Mountains,11.11634371,484227.931903,8101.197214449999,1.0,17,1.0,1.0
+17,21,Ballance Farm,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205,03010205020010,Currituck,Northern Outer Coastal Plain,408.69654058,17802821.3076,23952.0565887,1.0,18,1.0,1.0
+18,92106,Barnes Creek Grissom,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040103,03040103050080,Montgomery,Southern Piedmont,55.87448552,2433892.58911,12269.3700391,1.0,19,4.0,4.0
+19,23,Barra Farms I,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030005,03030005010020,Cumberland,Southern Inner Coastal Plain,617.94517146,26917691.6689,23107.6702137,1.0,20,7.0,7.0
+20,24,Beamon's Run (G),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020203,03020203050010,Greene,Northern Inner Coastal Plain,79.90649145,3480726.76746,24381.6729008,1.0,21,4.0,4.0
+21,95362,Bear Basin,Full Delivery,Inactive,Long Term Mangement,White Oak,03030001,03030001010010,Onslow,Southern Outer Coastal Plain,11.94230888,520206.975027,3383.36283359,1.0,22,1.0,1.0
+22,26,Bear Creek (Phillips Tract),Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003070050,Chatham,Central Piedmont,15.70129438,683948.383166,9099.13019857,1.0,23,,
+23,27,Bear Swamp Creek,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101040010,Franklin,Central Piedmont,4.18804768,182431.356767,3249.88867398,1.0,24,1.0,1.0
+24,28,Beaver Creek,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101090030,Surry,Central Piedmont,12.38018307,538634.982799,8570.658578259998,1.0,25,,
+25,92164,Beaver Dam-Drowning Creek II (Rankin Tract),Design-Bid-Build,Inactive,Long Term Mangement,Lumber,03040203,03040203010111,Moore,Southern Piedmont,912.30179997,39739866.4066,73182.85124239998,1.0,26,,
+26,92217,Beaverdam Creek,Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101170040,Mecklenburg,Southern Piedmont,57.71427899,2514033.99283,32686.9286922,1.0,27,7.0,7.0
+27,92586,Beaverdam Creek and Trib (Parker Site),Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105081030,Union,Southern Piedmont,6.51549965,283815.164738,5154.48742413,1.0,28,1.0,1.0
+28,92530,Beaverdam Swamp,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030004,03030004110020,Harnett,Southern Inner Coastal Plain,35.75650057,1557553.16482,18259.9783106,1.0,29,1.0,1.0
+29,29,Benbow Park,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002020050,Guilford,Central Piedmont,4.32044924,188198.768911,3917.00990748,1.0,30,4.0,4.0
+30,32,Benson Grove,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201130020,Johnston,Northern Inner Coastal Plain,94.01557915,4095318.62776,13568.6335439,1.0,31,1.0,1.0
+31,95353,Best Site,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030007,03030007060010,Duplin,Southern Inner Coastal Plain,142.05176234,6187774.76755,51083.6652932,1.0,32,1.0,1.0
+32,92132,Big & Little Rock Creek Bruchon,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010108,06010108060020,Mitchell,Northern Mountains,145.65574037,6344764.05059,12418.7296819,1.0,33,15.0,15.0
+33,92214,Big Bull Creek (G),Full Delivery,Inactive,Long Term Mangement,Neuse,03020201,03020201110040,Johnston,Northern Inner Coastal Plain,36.7597974,1601256.77459,10622.119479,1.0,34,1.0,1.0
+34,92532,Big Cedar Creek,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105060080,Stanly,Southern Piedmont,40.66737958,1771512.65144,22894.0099621,1.0,35,1.0,1.0
+35,92101,Big Pond Bay Gardner,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030006,03030006040020,Cumberland,Southern Inner Coastal Plain,30.94524692,1347974.95563,5504.41031627,1.0,36,12.0,12.0
+36,36,Billy's Creek (G),Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101040020,Franklin,Central Piedmont,5.02815781,219026.554388,3578.55758433,1.0,37,1.0,1.0
+37,92209,Bird Island,Design-Bid-Build,Inactive,Long Term Mangement,Lumber,03040207,03040207020120,Brunswick,Southern Outer Coastal Plain,118.84658719,5176902.53112,17507.1745803,1.0,38,,
+38,38,Bishop Road (1 mi to CU 05),Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020104,03020104120010,Hyde,Northern Outer Coastal Plain,689.71602306,30044483.0677,57708.7697031,1.0,39,,
+39,92162,Bishop Tract-Canal Branch,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040104,03040104061030,Anson,Southern Piedmont,80.56209500999998,3509284.85871,17581.9793329,1.0,40,17.0,17.0
+40,97063,Black Gum Creek,Design-Bid-Build,Inactive,Long Term Mangement,Lumber,03040203,03040203020010,Robeson,Southern Inner Coastal Plain,147.47470317,6423998.07002,17439.3438668,1.0,41,1.0,1.0
+41,92516,Blockhouse Creek,Full Delivery,Inactive,Long Term Mangement,Broad,03050105,03050105150020,Polk,Southern Piedmont,13.18501395,574339.207467,12740.0504268,1.0,42,4.0,4.0
+42,40,Blue Mitigation Site,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030004,03030004070050,Moore,Southern Piedmont,176.77458042,7700300.72317,13130.3686298,1.0,43,,
+43,667,BMP (Cary Barnes and Noble),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201110010,Wake,Central Piedmont,2.73799498,119267.061122,1580.45962042,1.0,44,4.0,4.0
+44,92646,BMP (Simmons Street Wetland New Bern),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020204,03020204020010,Craven,Southern Outer Coastal Plain,41.68677098,1815875.7439,6647.43282959,1.0,45,4.0,4.0
+45,670,BMP (Wayne Community College),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020202,03020202010010,Wayne,Northern Inner Coastal Plain,1.18204176,51489.7390153,1153.47014851,1.0,46,1.0,1.0
+46,92735,BMP Louisburg HS,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101040010,Franklin,Central Piedmont,0.63230812,27543.3417392,676.578731957,1.0,47,1.0,1.0
+47,92879,Bobs Creek,Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050101,03050101040010,McDowell,Northern Mountains,42.70685374,1860310.549,17417.7599013,1.0,48,45.0,45.0
+48,439,Bold Run Creek (G),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201065010,Wake,Central Piedmont,34.93842931,1521863.59013,6145.94301212,1.0,49,,
+49,95721,Bowl Basin Non-Riparian Wetland Mitigation,Full Delivery,Inactive,Long Term Mangement,White Oak,03020106,03020106010010,Onslow,Southern Outer Coastal Plain,12.06491465,525547.682335,4937.59604591,1.0,50,1.0,1.0
+50,44,Bowman Site,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003020010,Randolph,Central Piedmont,9.8105787,427348.808354,4076.01964156,1.0,51,,
+51,47,Briles,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040103,03040103050030,Randolph,Central Piedmont,13.39126445,583323.479331,6232.01031391,1.0,52,,
+52,92882,Broad River Greenway,Design-Bid-Build,Inactive,Long Term Mangement,Broad,03050105,03050105010010,Cleveland,Southern Piedmont,997.27612634,43441380.2712,68818.4664633,1.0,53,,
+53,92333,Brock,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020204,03020204010060,Jones,Southern Outer Coastal Plain,8.06557226,351336.327458,5539.31940758,1.0,54,,
+54,49,Brock Mill Pond,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020204,03020204010070,Jones,Southern Outer Coastal Plain,110.47725676,4812389.30441,24199.8402028,1.0,55,,
+55,92215,Brogden Road (G),Full Delivery,Inactive,Long Term Mangement,Neuse,03020201,03020201140010,Johnston,Northern Inner Coastal Plain,15.00376113,653563.834625,5083.34985043,1.0,56,1.0,1.0
+56,52,Brown Bark Park,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002020040,Guilford,Central Piedmont,8.93358482,389146.954641,5613.93021297,1.0,57,4.0,4.0
+57,53,Brown Branch,Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050101,03050101070020,Caldwell,Northern Mountains,25.43468125,1107934.71524,9444.91059667,1.0,58,4.0,4.0
+58,95351,Brown Creek Tributaries Project,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040104,03040104061030,Anson,Southern Piedmont,43.33366556,1887614.472,22649.8916092,1.0,59,1.0,1.0
+59,92207,Brown Farm,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002060110,Durham,Central Piedmont,46.62995608,2031200.88698,7815.510967989999,1.0,60,4.0,4.0
+60,92517,Brown Marsh Swamp,Full Delivery,Inactive,Long Term Mangement,Lumber,03040204,03040204037010,Robeson,Southern Inner Coastal Plain,28.26598858,1231266.46245,9658.42537895,1.0,61,1.0,1.0
+61,96313,Browns Summit Creek Restoration Project,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002010020,Guilford,Central Piedmont,20.24499234,881871.866443,10950.8927252,1.0,62,1.0,1.0
+62,54,Brush Creek,Design-Bid-Build,Inactive,Long Term Mangement,New,05050001,05050001030030,Alleghany,Northern Mountains,10.66713045,464660.202484,7409.29916495,1.0,63,4.0,4.0
+63,97084,Buckwater Mitigation Site,Full Delivery,Active,Active,Neuse,03020201,03020201030030,Orange,Central Piedmont,51.83916477,2258104.98487,29531.5283673,1.0,64,,
+64,92603,Buffalo Creek,Design-Bid-Build,Active,Active,Neuse,03020201,03020201020010,Durham,Central Piedmont,32.23501344,1404151.56901,11418.1423899,1.0,65,12.0,12.0
+65,94647,Buffalo Flats Restoration Site,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105020050,Cabarrus,Southern Piedmont,20.19888167,879863.2854209999,5348.13832836,1.0,66,1.0,1.0
+66,57,Bull Farm,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030006,03030006050040,Sampson,Southern Inner Coastal Plain,438.63181826,19106802.0035,20883.8831582,1.0,67,1.0,1.0
+67,95009,Burnetts Chapel Buffer Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030003,03030003010050,Guilford,Central Piedmont,11.98430154,522036.175207,10505.6945767,1.0,68,,
+68,63,Caldwell Station,Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050101,03050101170010,Mecklenburg,Southern Piedmont,20.66103838,899994.831707,6475.7305359,1.0,69,7.0,7.0
+69,66,Camp Lejeune USMC,Design-Bid-Build,Inactive,Long Term Mangement,White Oak,03030001,03030001020030,Onslow,Southern Outer Coastal Plain,4.29493665,187087.440493,2655.31309385,1.0,70,,
+70,92767,Candiff Creek,Design-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101110060,Surry,Central Piedmont,27.5424432,1199892.64598,11713.7765053,1.0,71,1.0,1.0
+71,96315,Candy Creek Stream Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002010020,Guilford,Central Piedmont,61.6796957,2686767.54458,33431.2400063,1.0,72,1.0,1.0
+72,69,Cane Creek,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002050050,Alamance,Central Piedmont,6.42792135,279319.64447,4993.66649941,1.0,73,1.0,1.0
+73,92325,Cane Creek,Full Delivery,Inactive,Long Term Mangement,Roanoke,03010104,03010104061040,Person,Central Piedmont,52.10742538,2269799.44946,35156.9403988,1.0,74,1.0,1.0
+74,92521,Cane Creek (FD),Full Delivery,Inactive,Long Term Mangement,Broad,03050105,03050105060020,Rutherford,Southern Piedmont,44.08080864,1920160.02457,20921.8622326,1.0,75,,
+75,92268,Carbonton Dam,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030003,03030003060010,Moore,Southern Piedmont,5.59973683,243924.536127,2250.70888475,1.0,76,,
+76,94719,Carper-Harris Wetland,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205,03010205010020,Pasquotank,Northern Outer Coastal Plain,67.80593987,2953626.74065,7951.62880758,1.0,77,,
+77,92271,Casey Dairy (G),Full Delivery,Inactive,Long Term Mangement,Neuse,03020202,03020202010040,Wayne,Northern Inner Coastal Plain,72.0078572,3136662.25981,18712.2924411,1.0,78,,
+78,92133,Cashie River-IP-Thunderbolt-Baltimore,Design-Bid-Build,Inactive,Long Term Mangement,Roanoke,03010107,03010107160115,Bertie,Northern Outer Coastal Plain,723.98188528,31536650.9227,51989.8765477,1.0,79,,
+79,71,Cat Creek,Design-Bid-Build,Inactive,Long Term Mangement,Little Tennessee,06010202,06010202040010,Macon,Southern Mountains,38.92621778,1695626.04661,16259.8294174,1.0,80,,
+80,73,Caviness,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003020050,Randolph,Central Piedmont,9.39351675,409181.589806,5573.29807177,1.0,81,,
+81,97009,Cedar Branch Restoration Site,Full Delivery,Active,Active,Yadkin,03040103,03040103050040,Randolph,Central Piedmont,21.33265711,929250.5438010001,12497.007615,1.0,82,1.0,1.0
+82,95718,Cedar Creek,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030006,03030006090060,Sampson,Southern Inner Coastal Plain,42.01535814,1830189.00045,15067.654046,1.0,83,1.0,1.0
+83,92035,Cedar Creek Perry,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101050010,Franklin,Central Piedmont,162.43927034,7075854.61602,34100.1003835,1.0,84,7.0,7.0
+84,77,Chapel Creek,Design-Bid-Build,Active,Active,Cape Fear,03030002,03030002060080,Orange,Central Piedmont,5.15304159,224466.491569,3331.04917891,1.0,85,1.0,1.0
+85,79,Charles Creek,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205,03010205050010,Pasquotank,Northern Outer Coastal Plain,1.99612345,86997.96022989998,1417.51156027,1.0,86,7.0,7.0
+86,92017,Chowan River Harrell,Design-Bid-Build,Inactive,Long Term Mangement,Chowan,03010203,03010203080020,Chowan,Northern Outer Coastal Plain,111.26123172,4846539.25383,10851.0185152,1.0,87,1.0,1.0
+87,90,City Pond,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040201,03040201020020,Anson,Southern Piedmont,35.44328959,1543909.69469,13623.8382116,1.0,88,1.0,1.0
+88,91,Clayhill Farm,Design-Bid-Build,Inactive,Long Term Mangement,White Oak,03020106,03020106010060,Jones,Southern Outer Coastal Plain,343.0328624,14942371.6459,16833.1271701,1.0,89,4.0,4.0
+89,92,Clear Creek,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105,06010105030040,Henderson,Southern Mountains,6.39762537,278680.561046,2916.40049868,1.0,90,1.0,1.0
+90,93,Cleghorn Creek,Full Delivery,Inactive,Long Term Mangement,Broad,03050105,03050105040090,Rutherford,Southern Piedmont,23.77005006,1035449.11346,9196.57636726,1.0,91,1.0,1.0
+91,95720,Cochran Branch Stream and Wetland Restoration Site,Full Delivery,Inactive,Long Term Mangement,Little Tennessee,06010202,06010202040020,Macon,Southern Mountains,10.0500787,437817.731298,3275.10304914,1.0,92,1.0,1.0
+92,94,Coddle Creek Tributary (Indian Run),Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040105,03040105020010,Cabarrus,Southern Piedmont,19.60612259,854041.346126,8014.30112835,1.0,93,,
+93,92205,Collins Site,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002050060,Orange,Central Piedmont,27.84952595,1213125.35028,18729.5538909,1.0,94,1.0,1.0
+94,92760,Columbus Swamp,Full Delivery,Inactive,Long Term Mangement,Lumber,03040203,03040203170020,Columbus,Southern Inner Coastal Plain,40.10197246,1746841.92016,5226.01760004,1.0,95,1.0,1.0
+95,96,Company Swamp,Design-Bid-Build,Inactive,Long Term Mangement,Roanoke,03010107,03010107130020,Bertie,Northern Outer Coastal Plain,1510.10856387,65780329.0423,50183.8116493,1.0,96,,
+96,92232,Conetoe Creek (G),Full Delivery,Inactive,Long Term Mangement,Tar-Pamlico,03020103,03020103050050,Pitt,Northern Inner Coastal Plain,10.02405745,436647.942724,8583.466767809998,1.0,97,4.0,4.0
+97,92226,Conoconnara Swamp,Full Delivery,Inactive,Long Term Mangement,Roanoke,03010107,03010107090020,Halifax,Northern Inner Coastal Plain,200.34695483,8727113.35219,29929.3799122,1.0,98,1.0,1.0
+98,95807,Coon Creek Riparian Buffer and Nutrient Offset,Full Delivery,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101020010,Granville,Central Piedmont,30.19033674,1315091.06838,11556.3999188,1.0,99,1.0,1.0
+99,92014,Countyline Creek Mackovic,Design-Bid-Build,Inactive,Long Term Mangement,Roanoke,03010104,03010104032010,Caswell,Central Piedmont,90.12686028,3925926.03374,9387.09978342,1.0,100,,
+100,99,Cox Site,Full Delivery,Inactive,Long Term Mangement,Neuse,03020201,03020201150050,Johnston,Northern Inner Coastal Plain,66.59785913,2901002.74387,14282.7010911,1.0,101,,
+101,105,Cross Creek,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030004,03030004100050,Cumberland,Southern Inner Coastal Plain,4.66272533,203089.944197,4551.874451,1.0,102,4.0,4.0
+102,92329,Crowns West,Full Delivery,Inactive,Long Term Mangement,White Oak,03030001,03030001010010,Onslow,Southern Outer Coastal Plain,10.77892645,469530.284474,6573.71325801,1.0,103,1.0,1.0
+103,92245,Crowther North South Yadkin River,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040102,03040102050030,Rowan,Central Piedmont,39.49429494,1720371.48742,8889.74071473,1.0,104,26.0,26.0
+104,92547,Cutawhiskie creek,Full Delivery,Active,Active,Chowan,03010204,03010204200010,Hertford,Northern Outer Coastal Plain,22.83914106,994872.984447,9138.80988104,1.0,105,1.0,1.0
+105,106,Dale Tract,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030005,03030005030080,Brunswick,Southern Outer Coastal Plain,237.577466,10348874.4191,16440.3096294,1.0,106,1.0,1.0
+106,92269,Daniels Farm,Full Delivery,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101040070,Franklin,Central Piedmont,33.95281703,1478984.70965,6496.59459463,1.0,107,,
+107,92229,Daniels Farm #2,Full Delivery,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101040070,Franklin,Central Piedmont,33.76410324,1470764.33713,12093.01774,1.0,108,2.0,2.0
+108,92543,Davis Branch,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105070080,Union,Southern Piedmont,13.32591892,580477.028022,8597.57752271,1.0,109,1.0,1.0
+109,92157,Davis Tract-Yadkin River,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101200040,Davie,Central Piedmont,75.64673141999998,3295171.62065,19294.7903788,1.0,110,32.0,32.0
+110,110,Deaton,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003020060,Randolph,Central Piedmont,13.62873469,593667.683277,9961.57386136,1.0,111,,
+111,92120,Deep - Horse Creek McKean,Design-Bid-Build,Inactive,Long Term Mangement,Lumber,03040203,03040203010050,Moore,Southern Piedmont,95.38649898000001,4155035.89565,16423.1099443,1.0,112,27.0,27.0
+112,92091,Deep River Hanson,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003060080,Chatham,Central Piedmont,111.35237624,4850509.50907,12192.1420253,1.0,113,,
+113,92092,Deep River Jordan,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003040010,Moore,Southern Piedmont,168.22183343,7327743.064059999,32119.6087446,1.0,114,14.0,14.0
+114,92093,Deep River M. Paschal,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003040010,Moore,Southern Piedmont,76.4373332,3329610.23399,15824.3264836,1.0,115,3.0,3.0
+115,95021,Devils Racetrack Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Neuse,03020201,03020201140010,Johnston,Northern Inner Coastal Plain,96.06454007,4184571.36563,28032.1616166,1.0,116,1.0,1.0
+116,117,Dismal Swamp,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205,03010205090010,Gates,Northern Outer Coastal Plain,611.57101587,26640033.4513,20919.8505814,1.0,117,,
+117,118,Dismal Swamp Full-Delivery,Full Delivery,Inactive,Long Term Mangement,Pasquotank,03010205,03010205180010,Tyrrell,Northern Outer Coastal Plain,455.0012425,19819854.1232,17953.3520778,1.0,118,27.0,27.0
+118,92533,Dog Bite Creek,Full Delivery,Inactive,Long Term Mangement,French Broad,06010108,06010108040010,Mitchell,Northern Mountains,6.86231576,298922.474708,8130.32243479,1.0,119,4.0,4.0
+119,119,Dowd Dairy,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030005,03030005020020,Bladen,Southern Inner Coastal Plain,671.42338578,29247202.6845,28520.4517096,1.0,120,1.0,1.0
+120,92163,Drowning Creek,Design-Bid-Build,Inactive,Long Term Mangement,Lumber,03040203,03040203010111,Moore,Southern Piedmont,779.66343871,33962090.1319,63395.517932,1.0,121,,
+121,92121,Drowning Creek IP Forest Investments,Design-Bid-Build,Inactive,Long Term Mangement,Lumber,03040203,03040203010030,Moore,Southern Piedmont,486.05138049,21172478.2088,30508.8173909,1.0,122,,
+122,92544,Duke Swamp,Full Delivery,Inactive,Long Term Mangement,Chowan,03010203,03010203040010,Gates,Northern Outer Coastal Plain,25.43485928,1107906.08898,9073.12072736,1.0,123,1.0,1.0
+123,65,Dula Thorofare at Bishop Site,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040104,03040104061050,Anson,Southern Piedmont,120.01001263,5227636.14995,36246.3333475,1.0,124,,
+124,92350,Dula Thorofare at Camp Branch,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040105,03040105081060,Anson,Southern Piedmont,95.82277417,4174040.04302,26199.1093893,1.0,125,,
+125,92176,DuPont Forest,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105,06010105010080,Transylvania,Southern Mountains,2221.94247665,96787814.2831,57586.9610533,1.0,126,,
+126,92116,Dutch Buffalo Creek Walker,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040105,03040105020050,Cabarrus,Southern Piedmont,33.67139204,1466725.83733,6364.42093044,1.0,127,3.0,3.0
+127,92117,Dutch Buffalo Creek Wickliff,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040105,03040105020050,Cabarrus,Southern Piedmont,2.73396277,119091.418042,1381.88033984,1.0,128,3.0,3.0
+128,92107,Dutch Second Creek Hill,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040103,03040103010030,Rowan,Central Piedmont,16.98471228,739854.0668499998,5482.93913336,1.0,129,1.0,1.0
+129,121,Dutchman's Creek,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201110010,Wake,Central Piedmont,84.79773118999998,3693789.1707,10064.9198125,1.0,130,,
+130,92255,Dye Branch II Stream Restoration,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040105,03040105010010,Iredell,Central Piedmont,12.01228967,523254.306772,7211.49295641,1.0,131,4.0,4.0
+131,745,Eagle Brunswick,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030005,03030005040010,Brunswick,Southern Outer Coastal Plain,458.54864039,19974379.4445,24583.9865421,1.0,132,1.0,1.0
+132,92763,East Buffalo Creek,Full Delivery,Inactive,Long Term Mangement,Little Tennessee,06010204,06010204020030,Graham,Southern Mountains,17.84674775,777404.3321239998,23755.8018141,1.0,133,7.0,7.0
+133,94203,East Fork of the Pigeon River Wetlands,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010106,06010106010010,Haywood,Southern Mountains,16.53292126,720104.189908,3730.09274285,1.0,134,1.0,1.0
+134,123,East Tarboro Canal (G),Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020103,03020103010010,Edgecombe,Northern Inner Coastal Plain,11.51328539,501518.711452,6281.07022424,1.0,135,18.0,18.0
+135,92172,Elk-Shoals-Methodist Camp,Design-Bid-Build,Inactive,Long Term Mangement,New,05050001,05050001020040,Ashe,Northern Mountains,95.90807692000001,4177755.83084,14727.0791933,1.0,136,72.0,72.0
+136,92665,Elk Branch,Full Delivery,Inactive,Long Term Mangement,French Broad,06010108,06010108040010,Mitchell,Northern Mountains,4.9512069,215674.572581,6744.32407973,1.0,137,1.0,1.0
+137,126,Elk Shoals RFP*,Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101130010,Alexander,Central Piedmont,10.70906291,466486.780575,7615.76055067,1.0,138,,
+138,127,Ellerbee Creek (G) Hillandale,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201050010,Durham,Central Piedmont,15.17091662,660838.087768,19405.0343686,1.0,139,9.0,9.0
+139,92520,Ellington Branch,Full Delivery,Inactive,Long Term Mangement,Roanoke,03010106,03010106031010,Warren,Central Piedmont,14.49072867,631216.141059,8577.15033722,1.0,140,1.0,1.0
+140,92148,Eno River-Poplar Ridge (Bunting),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201030030,Orange,Central Piedmont,134.44743329,5856530.19391,14244.6777498,1.0,141,,
+141,92246,Eno River Cabe's Ford,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201030030,Orange,Central Piedmont,87.41929913,3807984.67017,12804.8692683,1.0,142,,
+142,92082,Eno River Penny,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201020040,Durham,Central Piedmont,108.08720248,4708163.66555,10473.0421031,1.0,143,,
+143,92147,Eno River Wilderness,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201030030,Orange,Central Piedmont,808.31163996,35210055.0366,42972.7498551,1.0,144,,
+144,92552,Farrar Dairy,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030004,03030004110010,Harnett,Southern Inner Coastal Plain,167.52204121,7297260.115249998,35061.1561905,1.0,145,1.0,1.0
+145,92558,Fisher River Fisher Peak,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101090010,Surry,Central Piedmont,151.26660418,6587808.78227,25188.3134095,1.0,146,4.0,4.0
+146,135,Fisher River Mit. Bank (Ring FDP),Full Delivery,Inactive,Credit Purchase Complete,Yadkin,03040101,03040101090010,Surry,Central Piedmont,96.381369,4198372.43385,9519.56677684,1.0,147,,
+147,92144,Fishing Creek (Capps Tract),Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102020030,Warren,Central Piedmont,36.91083424,1607835.93958,8707.01731741,1.0,148,30.0,30.0
+148,92038,Fishing Creek Capps Farm,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102020030,Warren,Central Piedmont,39.64096712,1726760.52757,10340.9800261,1.0,149,60.0,60.0
+149,92039,Fishing Creek Capps Forest,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102020020,Warren,Central Piedmont,19.55407431,851775.476752,6059.35258521,1.0,150,56.0,56.0
+150,92020,Fishing Creek Edwards 1,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102040010,Nash,Northern Inner Coastal Plain,87.55162351,3813748.72026,22175.7802947,1.0,151,201.0,201.0
+151,92021,Fishing Creek Green,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102020020,Warren,Central Piedmont,15.55274535,677477.587451,5017.25981546,1.0,152,38.0,38.0
+152,92041,Fishing Creek Hall,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102040010,Edgecombe,Northern Inner Coastal Plain,231.51320065,10084715.0204,40996.2486737,1.0,153,37.0,37.0
+153,92022,Fishing Creek IP/Alston,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102030030,Warren,Central Piedmont,179.36646987,7813203.42748,22958.1907693,1.0,154,105.0,105.0
+154,92044,Fishing Creek Shearin,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102020020,Warren,Central Piedmont,70.14286286,3055423.10597,14518.2191823,1.0,155,84.0,84.0
+155,92046,Fishing Creek Sturges,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102020050,Franklin,Central Piedmont,13.49382711,587791.108791,4227.78022591,1.0,156,60.0,60.0
+156,92185,Five Mile Branch,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040102,03040102010100,Iredell,Central Piedmont,230.44361355,10037980.1063,27267.8196881,1.0,157,,
+157,92146,Flat River-Horton Grove,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201010050,Durham,Central Piedmont,308.31121134,13430198.0978,45894.8177823,1.0,158,14.0,14.0
+158,138,Fletcher-Meritor site,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105,06010105040010,Henderson,Southern Mountains,20.49507154,892770.7551309998,8315.03490523,1.0,159,4.0,4.0
+159,92812,Flint Rock Farm #2,Design-Bid-Build,Active,Active,Cape Fear,03030002,03030002010010,Rockingham,Central Piedmont,24.26364955,1056924.57455,9193.93959951,1.0,160,4.0,4.0
+160,440,Flintrock Farm,Design-Bid-Build,Active,Active,Cape Fear,03030002,03030002010010,Rockingham,Central Piedmont,53.07818071,2312085.55183,11570.1569771,1.0,161,4.0,4.0
+161,92486,Floogie Site,Full Delivery,Inactive,Long Term Mangement,Roanoke,03010107,03010107160050,Bertie,Northern Outer Coastal Plain,71.34707005,3107878.37149,16844.4566467,1.0,162,1.0,1.0
+162,139,Forest Hills,Design-Bid-Build,Active,Active,Cape Fear,03030002,03030002060120,Durham,Central Piedmont,8.89436585,387438.576638,6660.25635577,1.0,163,4.0,4.0
+163,95715,Foust Creek Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002050050,Alamance,Central Piedmont,22.11154816,963179.03771,10674.0259719,1.0,164,1.0,1.0
+164,94016,Fox Run Riparian Buffer Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Neuse,03020203,03020203070030,Pitt,Northern Inner Coastal Plain,46.46638467,2024075.71613,10321.6753286,1.0,165,1.0,1.0
+165,141,Freedom Park,Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050103,03050103020030,Mecklenburg,Southern Piedmont,13.11530026,571302.479331,8944.8206528,1.0,166,4.0,4.0
+166,142,Friedburg Marsh,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101170070,Forsyth,Central Piedmont,49.13109618,2140150.54959,6898.7242481,1.0,167,1.0,1.0
+167,92228,Gatlin Swamp,Full Delivery,Inactive,Long Term Mangement,Roanoke,03010107,03010107120020,Martin,Northern Inner Coastal Plain,150.51761081,6556547.1267,10819.6398182,1.0,168,1.0,1.0
+168,143,Gibson Pond,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040201,03040201010010,Richmond,Southern Piedmont,345.70400898,15058866.6311,18523.6627861,1.0,169,1.0,1.0
+169,144,Gillespie Golf Course,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002020050,Guilford,Central Piedmont,16.07567263,700256.299633,12348.7999567,1.0,170,4.0,4.0
+170,854,Glade Creek,Design-Bid-Build,Inactive,Long Term Mangement,New,05050001,05050001030020,Alleghany,Northern Mountains,15.86297875,690991.354177,7836.24756402,1.0,171,1.0,1.0
+171,92343,Glade Creek II,Design-Bid-Build,Inactive,Long Term Mangement,New,05050001,05050001030020,Alleghany,Northern Mountains,12.81423254,558214.079913,5286.67740637,1.0,172,1.0,1.0
+172,92206,Glen Raven,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002030010,Alamance,Central Piedmont,9.47221567,412609.714561,7807.350358249998,1.0,173,1.0,1.0
+173,92096,Glendon Slate Creek Paschal,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003040010,Moore,Southern Piedmont,15.03449208,654902.474881,4995.63476968,1.0,174,5.0,5.0
+174,145,Goldsboro Housing Authority,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201200020,Wayne,Northern Inner Coastal Plain,4.67142833,203492.281383,5093.76254291,1.0,175,1.0,1.0
+175,92761,Goodman Property,Full Delivery,Inactive,Long Term Mangement,Neuse,03020202,03020202040020,Lenoir,Southern Inner Coastal Plain,34.90848022,1520613.39823,17043.8119901,1.0,176,1.0,1.0
+176,147,Goose Creek (G),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201050010,Durham,Central Piedmont,3.94930253,172058.540943,3675.96467176,1.0,177,7.0,7.0
+177,92709,Goose Creek (Greene site),Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040105,03040105030020,Mecklenburg,Southern Piedmont,5.74089156,250106.831176,2470.62640507,1.0,178,1.0,1.0
+178,92219,Gray Farm,Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101150020,Iredell,Central Piedmont,21.50303394,936672.158411,13000.2216728,1.0,179,1.0,1.0
+179,92152,Great Coharie-TNC,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030006,03030006090050,Sampson,Southern Inner Coastal Plain,4704.3126942,204919860.959,254640.565239,1.0,180,,
+180,92124,Green River Boyer,Design-Bid-Build,Inactive,Long Term Mangement,Broad,03050105,03050105020020,Polk,Southern Piedmont,31.37246452,1366584.55447,8004.39695468,1.0,181,3.0,3.0
+181,92125,Green River Ward,Design-Bid-Build,Inactive,Long Term Mangement,Broad,03050105,03050105020020,Polk,Southern Piedmont,15.39187092,670469.89731,3456.50331852,1.0,182,6.0,6.0
+182,95012,Green Valley Farms Site,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030003,03030003010070,Randolph,Central Piedmont,11.370661,495305.993139,10847.0490249,1.0,183,,
+183,671,Greenbrier Creek,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003070010,Chatham,Central Piedmont,50.47774393,2198810.52572,19846.4553353,1.0,184,1.0,1.0
+184,153,Gregory,Full Delivery,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102050030,Halifax,Northern Inner Coastal Plain,117.66346135,5125420.37652,12396.3319369,1.0,185,,
+185,155,Grimesland (Phase II),Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020103,03020103070010,Pitt,Northern Inner Coastal Plain,23.81348661,1037315.47673,5779.76266571,1.0,186,,
+186,156,Grimesland Site Phase I,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020103,03020103070010,Pitt,Northern Inner Coastal Plain,534.92600646,23301378.4414,36298.894181,1.0,187,,
+187,158,Grove Creek,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030007,03030007040020,Duplin,Southern Inner Coastal Plain,548.58498452,23896361.9256,25415.28078,1.0,188,1.0,1.0
+188,92142,Guthrie Tract-Shelton Creek,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010050,Granville,Central Piedmont,110.46435024,4811827.09635,25554.7261344,1.0,189,47.0,47.0
+189,162,Hall Branch,Design-Bid-Build,Active,Active,Yadkin,03040201,03040201010010,Richmond,Southern Piedmont,10.45329015,455345.318847,5135.79915883,1.0,190,1.0,1.0
+190,165,Hanging Rock Creek (A3),Design-Bid-Build,Inactive,Long Term Mangement,Watauga,06010103,06010103020010,Avery,Northern Mountains,9.82017269,427766.722241,4355.83961129,1.0,191,1.0,1.0
+191,92138,Harper Tract-Swift Creek,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101130050,Franklin,Central Piedmont,27.58995999,1201818.65722,5404.15013157,1.0,192,9.0,9.0
+192,92230,Harrell Site,Full Delivery,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101130090,Edgecombe,Northern Inner Coastal Plain,47.54996456,2071248.6922,19598.4318853,1.0,193,1.0,1.0
+193,433,Harris Farm-HQP,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101040070,Franklin,Central Piedmont,588.77782517,25647162.0645,112579.994053,1.0,194,,
+194,719,Haw's Run,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030007,03030007100020,Pender,Southern Outer Coastal Plain,590.58089294,25725703.6964,31108.1295427,1.0,195,,
+195,167,Haw Branch,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030007,03030007080010,Onslow,Southern Outer Coastal Plain,51.82603822,2257542.22486,11297.6034308,1.0,196,,
+196,92150,Haw River-Cone Swamp-Phillips,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002010020,Guilford,Central Piedmont,75.82386724,3302909.26804,10213.6475765,1.0,197,,
+197,92149,Haw River-Duke Forest,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002060040,Chatham,Central Piedmont,1227.10042043,53452494.3138,100217.416343,1.0,198,,
+198,92316,Haw River Bouchard,Design-Bid-Build,Active,Active,Cape Fear,03030002,03030002010040,Rockingham,Central Piedmont,30.86549203,1344500.83271,8592.81474691,1.0,199,3.0,3.0
+199,92238,Haw River Swamp I,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002010020,Rockingham,Central Piedmont,22.00817315,958676.0225350001,9416.95100915,1.0,200,,
+200,169,Haw River Tract,Design-Bid-Build,Active,Active,Cape Fear,03030002,03030002010040,Rockingham,Central Piedmont,95.43080517000001,4156965.87339,10614.6058648,1.0,201,3.0,3.0
+201,170,Heath Dairy Road,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040103,03040103050050,Randolph,Central Piedmont,56.79080999,2473859.34051,16347.6719953,1.0,202,,
+202,94014,Heath Riparian Buffer Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Neuse,03020202,03020202080010,Craven,Southern Outer Coastal Plain,60.63259053,2641155.64369,6528.47013783,1.0,203,1.0,1.0
+203,172,Helms,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040105,03040105020050,Rowan,Central Piedmont,9.51219173,414351.071753,4905.98012379,1.0,204,,
+204,173,Hendersonville Wetlands,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105,06010105030020,Henderson,Southern Mountains,13.99917094,609805.773457,3457.11031094,1.0,205,,
+205,96306,Henry Fork Stream and Wetland Mitigation Project,Full Delivery,Inactive,Long Term Mangement,Catawba,03050102,03050102010030,Catawba,Central Piedmont,48.05484028,2093268.84251,8209.77946873,1.0,206,1.0,1.0
+206,94642,Herman Dairy Farm Stream and Wetland,Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101120030,Alexander,Central Piedmont,31.12315531,1355724.64519,10082.9801302,1.0,207,1.0,1.0
+207,175,High Vista,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105,06010105050010,Buncombe,Southern Mountains,6.61847324,288310.35596,7438.099465129998,1.0,208,1.0,1.0
+208,177,Hillsdale Park,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002020050,Guilford,Central Piedmont,16.69428954,727203.252346,11708.3638176,1.0,209,4.0,4.0
+209,92118,Hitchcock Creek McDonald,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040201,03040201010010,Richmond,Southern Piedmont,39.58760729,1724436.17372,5406.71874689,1.0,210,12.0,12.0
+210,95013,Hockett Dairy Site,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030003,03030003010070,Randolph,Central Piedmont,12.98957969,565826.091379,12408.5390489,1.0,211,4.0,4.0
+211,95355,Hofler Property,Full Delivery,Inactive,Long Term Mangement,Chowan,03010203,03010203040040,Gates,Northern Outer Coastal Plain,27.04609508,1178127.90187,4705.86605206,1.0,212,,
+212,94708,Hogan Creek,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101110060,Surry,Central Piedmont,36.12635393,1573687.13716,14906.8502076,1.0,213,1.0,1.0
+213,92523,Holly Grove,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002020070,Guilford,Central Piedmont,64.22316352,2797562.38036,41001.6817165,1.0,214,1.0,1.0
+214,96316,Holman Mill Stream Mitigation Project,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002050050,Alamance,Central Piedmont,32.40921274,1411745.3069,14065.0536884,1.0,215,1.0,1.0
+215,180,Hominy Swamp Creek,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020203,03020203020040,Wilson,Northern Inner Coastal Plain,3.90386638,170052.419532,4207.10965688,1.0,216,4.0,4.0
+216,95352,Hopewell Stream Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040104,03040104030010,Randolph,Central Piedmont,35.95384055,1566149.29435,23586.0279903,1.0,217,1.0,1.0
+217,92251,Hoppers Creek - Melton Farm,Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050101,03050101040020,McDowell,Northern Mountains,10.12511593,441050.049973,9081.39038086,1.0,218,9.0,9.0
+218,92223,Howard Farm (G),Full Delivery,Inactive,Long Term Mangement,Neuse,03020203,03020203050040,Greene,Northern Inner Coastal Plain,28.81669065,1255255.04486,8313.136914009998,1.0,219,1.0,1.0
+219,183,Howell Woods,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201150050,Johnston,Northern Inner Coastal Plain,139.86948367,6092714.70888,14587.5550126,1.0,220,3.0,3.0
+220,95361,Hudson Property,Full Delivery,Inactive,Long Term Mangement,Tar-Pamlico,03020104,03020104010010,Beaufort,Northern Outer Coastal Plain,13.89006823,605051.371985,6436.52154306,1.0,221,1.0,1.0
+221,184,Huskanaw Swamp,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020103,03020103090010,Martin,Northern Inner Coastal Plain,115.77405961,5043118.03658,10088.9075027,1.0,222,,
+222,92015,Hyco Lake Bessemer,Design-Bid-Build,Inactive,Long Term Mangement,Roanoke,03010104,03010104061040,Caswell,Central Piedmont,167.96539781,7316572.72859,34425.9419854,1.0,223,7.0,7.0
+223,192,Irwin Creek Whitehurst Road,Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050103,03050103020020,Mecklenburg,Southern Piedmont,5.6921327,247923.498174,2686.27749271,1.0,224,75.0,75.0
+224,95023,Jacobs Ladder Site,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105020040,Rowan,Central Piedmont,17.23026498,750550.342458,11084.8432706,1.0,225,1.0,1.0
+225,95024,Jacobs Landing Site,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105020040,Rowan,Central Piedmont,13.91822537,606277.897135,9348.51477275,1.0,226,1.0,1.0
+226,92550,Jarmans Oak,Full Delivery,Inactive,Long Term Mangement,White Oak,03030001,03030001010010,Onslow,Southern Outer Coastal Plain,35.35038857,1539862.92598,13734.9535693,1.0,227,1.0,1.0
+227,197,Johnson Site (Hunting Creek),Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040102,03040102020030,Iredell,Central Piedmont,10.13658805,441615.037265,5927.03179229,1.0,228,1.0,1.0
+228,198,Jones Creek,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040201,03040201020030,Anson,Southern Piedmont,104.09022625,4534170.25551,11947.4869417,1.0,229,,
+229,92614,Jordan Creek,Design-Bid-Build,Active,Active,Cape Fear,03030002,03030002030040,Alamance,Central Piedmont,21.66417058,943691.270582,15938.3713984,1.0,230,1.0,1.0
+230,199,Jumping Run Creek,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030004,03030004090010,Harnett,Southern Inner Coastal Plain,69.20883625,3014736.90708,7453.85753542,1.0,231,,
+231,200,Jumping Run Creek,Design-Bid-Build,Inactive,Long Term Mangement,White Oak,03020106,03020106030060,Carteret,Southern Outer Coastal Plain,4.41270011,192217.21663,3930.16702781,1.0,232,1.0,1.0
+232,95027,Junes Branch Stream Restoration Site,Full Delivery,Inactive,Long Term Mangement,Little Tennessee,06010203,06010203020010,Jackson,Southern Mountains,5.81128326,253139.498674,5912.5271513,1.0,233,1.0,1.0
+233,201,Juniper Bay,Design-Bid-Build,Inactive,Long Term Mangement,Lumber,03040203,03040203180020,Robeson,Southern Inner Coastal Plain,729.6886038699998,31785292.2028,22887.7674154,1.0,234,1.0,1.0
+234,204,Ken-Cox (Millstone Creek),Design-Bid-Build,Active,Active,Cape Fear,03030003,03030003020030,Randolph,Central Piedmont,18.80685177,819226.463265,8192.44969334,1.0,235,1.0,1.0
+235,205,Kentwood Park,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201090010,Wake,Central Piedmont,2.90622807,126595.294593,2698.64854917,1.0,236,4.0,4.0
+236,206,Key Branch,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040104,03040104061010,Anson,Southern Piedmont,119.27849052,5195771.0469,12115.709589,1.0,237,,
+237,208,Kings Creek,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105,06010105010050,Transylvania,Southern Mountains,7.0841976,308587.647387,4008.20804919,1.0,238,1.0,1.0
+238,209,Knobs Creek,Design-Bid-Build,Active,Active,Pasquotank,03010205,03010205050010,Pasquotank,Northern Outer Coastal Plain,22.64473637,986404.716362,7560.51131231,1.0,239,1.0,1.0
+239,92160,Lambert Tract-Uwharrie River Bluff,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040103,03040103050080,Montgomery,Southern Piedmont,19.34437272,842640.8755459999,7501.40656227,1.0,240,11.0,11.0
+240,92136,Langley Site-Cypress Creek,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101070010,Franklin,Central Piedmont,40.26504365,1753945.3015,9612.25620263,1.0,241,,
+241,92707,Laxon Creek(Racey site),Design-Bid-Build,Inactive,Long Term Mangement,New,05050001,05050001020020,Watauga,Northern Mountains,1.42646336,62136.744091,2347.4400072,1.0,242,,
+242,92143,Lester Capps Tract-Shocco Creek,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102010040,Warren,Central Piedmont,19.24938695,838505.74516,5993.89131479,1.0,243,130.0,130.0
+243,733,Lewis Creek,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105,06010105030040,Henderson,Southern Mountains,4.66039643,203006.868537,3324.05891479,1.0,244,4.0,4.0
+244,92161,Lewis Tract; Little River,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040104,03040104030020,Randolph,Central Piedmont,43.56351256,1897626.607,9022.00494043,1.0,245,12.0,12.0
+245,219,Lick Creek,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030004,03030004010010,Lee,Southern Piedmont,53.86519482,2346367.88656,13414.050575,1.0,246,,
+246,92166,Linville River-White Creek,Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050101,03050101030030,Burke,Northern Mountains,1425.37566527,62089363.9794,56582.2749784,1.0,247,,
+247,92213,Little Buffalo (G),Full Delivery,Inactive,Long Term Mangement,Neuse,03020201,03020201180070,Johnston,Northern Inner Coastal Plain,19.49068497,849014.237126,5351.54938811,1.0,248,1.0,1.0
+248,94147,Little Buffalo Creek Stream Mit. Site,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105020060,Cabarrus,Southern Piedmont,45.77782691,1994082.14017,26806.8935857,1.0,249,1.0,1.0
+249,92222,Little Contentnea-Buffer (G),Full Delivery,Inactive,Long Term Mangement,Neuse,03020203,03020203070050,Greene,Northern Inner Coastal Plain,55.66547226,2424787.97148,38410.8695414,1.0,250,1.0,1.0
+250,224,Little Grassy Creek,Design-Bid-Build,Inactive,Long Term Mangement,Roanoke,03010102,03010102161020,Granville,Central Piedmont,84.69195241,3689181.44696,40266.040984,1.0,251,,
+251,92651,Little Ivy Creek (Barnhill Site),Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105,06010105110020,Madison,Northern Mountains,2.76827986,120586.270561,3098.05161405,1.0,252,,
+252,92542,Little Lick Creek Buffer (Butler Road),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201050020,Durham,Central Piedmont,12.14286587,528943.237079,4734.24077272,1.0,253,4.0,4.0
+253,226,Little River,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030004,03030004070050,Moore,Southern Piedmont,125.52084468,5467687.99422,14907.9866092,1.0,254,1.0,1.0
+254,92112,Little River Baker,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040104,03040104030020,Randolph,Central Piedmont,10.54541329,459376.075634,3727.37718938,1.0,255,14.0,14.0
+255,92113,Little River Cochran,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040104,03040104030010,Montgomery,Southern Piedmont,18.64234849,812060.700136,8055.330143569999,1.0,256,11.0,11.0
+256,92759,Little River Farm,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040104,03040104030010,Montgomery,Southern Piedmont,51.19752189,2230164.05342,36667.7591518,1.0,257,11.0,11.0
+257,92114,Little River Parker,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040104,03040104030020,Randolph,Central Piedmont,34.06435221,1483836.05409,9193.16471507,1.0,258,14.0,14.0
+258,92111,Little River Walbourn,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040104,03040104030020,Randolph,Central Piedmont,37.52272736,1634490.00376,8570.26855371,1.0,259,9.0,9.0
+259,92023,Little Shocco Creek O'Neal,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102010030,Franklin,Central Piedmont,26.00563099,1132805.28575,5039.20702245,1.0,260,4.0,4.0
+260,92024,Little Shocco Creek Speed,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102010030,Warren,Central Piedmont,44.55018745,1940606.1653,10056.5494684,1.0,261,9.0,9.0
+261,92025,Little Shocco Creek Tomlinson,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102010030,Franklin,Central Piedmont,77.95026353999998,3395513.47982,10968.6581873,1.0,262,60.0,60.0
+262,92047,Little Shocco Creek Wheless,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102010030,Franklin,Central Piedmont,14.63429197,637469.758094,3848.07879199,1.0,263,46.0,46.0
+263,92177,Little Table Rock 1,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010108,06010108010020,Mitchell,Northern Mountains,478.20459979,20830592.3669,29592.629403,1.0,264,,
+264,92169,Little Table Rock 2,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010108,06010108010030,McDowell,Northern Mountains,66.30974743,2888452.5981,13362.9700108,1.0,265,,
+265,749,Little Troublesome,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002010030,Rockingham,Central Piedmont,31.02852356,1351602.79388,7817.7867407,1.0,266,1.0,1.0
+266,94640,Little Troublesome Creek Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002010030,Rockingham,Central Piedmont,52.0970711,2269401.4636,15039.6635578,1.0,267,4.0,4.0
+267,92534,Little White Oak Creek,Full Delivery,Inactive,Long Term Mangement,Broad,03050105,03050105030010,Polk,Southern Piedmont,55.08789244,2399628.59452,30239.5187269,1.0,268,1.0,1.0
+268,92327,Lloyd Site,Full Delivery,Inactive,Long Term Mangement,White Oak,03030001,03030001010030,Onslow,Southern Outer Coastal Plain,24.12143484,1050729.70183,11750.1230678,1.0,269,1.0,1.0
+269,95008,Loflin Dairy Buffer Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030003,03030003010060,Randolph,Central Piedmont,9.75042123,424728.348972,8953.429458189998,1.0,270,1.0,1.0
+270,92515,Logan Creek,Full Delivery,Inactive,Long Term Mangement,Savannah,03060101,03060101010020,Jackson,Southern Mountains,12.71427966,553834.022128,8658.90511219,1.0,271,4.0,4.0
+271,92168,Lone Mountain 1 -Phase Two,Design-Bid-Build,Inactive,Long Term Mangement,Broad,03050105,03050105060020,McDowell,Northern Mountains,166.62889951,7258354.86276,21158.5411575,1.0,272,,
+272,92171,Lone Mountain 2 -Phase Two,Design-Bid-Build,Inactive,Long Term Mangement,Broad,03050105,03050105080010,Rutherford,Southern Piedmont,1095.26455638,47709724.0761,46443.0054981,1.0,273,,
+273,92178,Lost Bridge,Design-Bid-Build,Inactive,Long Term Mangement,Little Tennessee,06010202,06010202040030,Macon,Southern Mountains,160.46169572,6989711.46572,11784.0599785,1.0,274,,
+274,234,Louisburg (UT to Tar River),Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101040070,Franklin,Central Piedmont,3.01898984,131507.197335,3648.84066562,1.0,275,1.0,1.0
+275,236,Lowell Mill,Full Delivery,Inactive,Long Term Mangement,Neuse,03020201,03020201180060,Johnston,Northern Inner Coastal Plain,16.59171471,722735.0927339998,7085.07643965,1.0,276,,
+276,94643,Lyle Creek Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101140010,Catawba,Central Piedmont,26.61629664,1159405.88146,12740.7792021,1.0,277,1.0,1.0
+277,239,Mallard Creek,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040105,03040105010040,Mecklenburg,Southern Piedmont,10.07817479,439005.294007,5069.80433259,1.0,278,,
+278,96314,Maney Farm Stream Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002050050,Chatham,Central Piedmont,16.69277986,727137.4907139998,9761.77973775,1.0,279,1.0,1.0
+279,92231,Manning Farm (G),Full Delivery,Inactive,Long Term Mangement,Tar-Pamlico,03020103,03020103050040,Edgecombe,Northern Inner Coastal Plain,10.00035575,435615.496487,4747.39030299,1.0,280,4.0,4.0
+280,92248,Mark's Creek TESC,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201100020,Wake,Central Piedmont,31.58167428,1375697.73157,7454.44067877,1.0,281,28.0,28.0
+281,97087,Martin Dairy Mitigation Site-Option 2,Full Delivery,Inactive,Long Term Mangement,Neuse,03020201,03020201030030,Orange,Central Piedmont,11.15481654,485903.80856,3795.24389993,1.0,282,,
+282,92633,Martins Creek II,Design-Bid-Build,Inactive,Long Term Mangement,Hiwassee,06020002,06020002170010,Cherokee,Southern Mountains,93.86826854,4088901.7776,48491.4884421,1.0,283,1.0,1.0
+283,241,Mary's Creek,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002050020,Alamance,Central Piedmont,6.80853541,296579.802658,4232.17046451,1.0,284,1.0,1.0
+284,718,Mashoe's Road,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205,03010205190010,Dare,Northern Outer Coastal Plain,398.80375354,17371891.5043,42266.8539865,1.0,285,,
+285,92328,Mason Farm,Full Delivery,Inactive,Long Term Mangement,Tar-Pamlico,03020105,03020105030010,Hyde,Northern Outer Coastal Plain,36.07922487,1571611.03512,5865.28956157,1.0,286,1.0,1.0
+286,92009,Mayo River & Buffalo Creek Gorrell,Design-Bid-Build,Inactive,Long Term Mangement,Roanoke,03010103,03010103220020,Rockingham,Central Piedmont,78.22637652,3407540.96102,8616.48425302,1.0,287,,
+287,92010,Mayo River Grogan,Design-Bid-Build,Inactive,Long Term Mangement,Roanoke,03010103,03010103220020,Rockingham,Central Piedmont,81.31277629999998,3541984.53546,9337.84088307,1.0,288,,
+288,92011,Mayo River Hickory Creek Robertson,Design-Bid-Build,Inactive,Long Term Mangement,Roanoke,03010103,03010103220020,Rockingham,Central Piedmont,166.34268593,7245887.398919999,12490.9689233,1.0,289,,
+289,443,McCain Property,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040103,03040103050050,Randolph,Central Piedmont,12.86970155,560604.19947,5188.43051722,1.0,290,,
+290,242,McDonald's Pond,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040201,03040201010020,Richmond,Southern Piedmont,127.86226299,5569680.17592,19573.7705632,1.0,291,1.0,1.0
+291,92604,McGowan Creek,Design-Bid-Build,Active,Active,Neuse,03020201,03020201030020,Orange,Central Piedmont,30.63089822,1334281.92629,15741.6774357,1.0,292,7.0,7.0
+292,243,McIntyre Creek @ Hornets Nest Park,Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050101,03050101170020,Mecklenburg,Southern Piedmont,17.04076714,742295.816643,9640.77762154,1.0,293,4.0,4.0
+293,244,McIntyre Property,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030005,03030005040010,Brunswick,Southern Outer Coastal Plain,131.1179223,5711496.69559,11023.2898289,1.0,294,14.0,14.0
+294,92573,McKee Creek,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040105,03040105010050,Cabarrus,Southern Piedmont,17.51647747,763017.758468,12492.1038374,1.0,295,1.0,1.0
+295,92141,McNair Tract (Turpentine; LLC)-Aycock Creek,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010060,Granville,Central Piedmont,211.20870436,9200251.16198,23166.5086784,1.0,296,88.0,88.0
+296,92351,Meadowbranch (Fivemile Branch),Design-Bid-Build,Inactive,Long Term Mangement,Lumber,03040203,03040203080010,Robeson,Southern Inner Coastal Plain,55.40195805,2413309.29273,10633.3000307,1.0,297,15.0,15.0
+297,92706,Meat Camp Creek (Miller site),Design-Bid-Build,Inactive,Long Term Mangement,New,05050001,05050001020020,Watauga,Northern Mountains,0.71686493,31221.5474816,1325.26656819,1.0,298,,
+298,247,Meredell Farm Site,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003020010,Randolph,Central Piedmont,55.3733068,2412061.24405,29440.6334204,1.0,299,,
+299,92703,Middle Fork Creek (Phillips/Willis),Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105,06010105110020,Madison,Northern Mountains,7.2631847,316397.094147,10692.1946682,1.0,300,,
+300,93875,Middle South Muddy Creek,Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050101,03050101040020,McDowell,Northern Mountains,41.05842092,1788445.78934,18643.9028112,1.0,301,1.0,1.0
+301,250,Mildred Woods,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020103,03020103010020,Edgecombe,Northern Inner Coastal Plain,598.30862594,26062323.746,42568.0186334,1.0,302,2.0,2.0
+302,251,Mill Branch,Design-Bid-Build,Inactive,Long Term Mangement,Lumber,03040206,03040206060020,Columbus,Southern Inner Coastal Plain,72.30606946999998,3149652.38619,17650.9258483,1.0,303,,
+303,253,Mill Creek (formerly Uwharrie Heritage),Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040103,03040103050080,Randolph,Central Piedmont,124.35240056,5416874.36186,53364.0538603,1.0,304,15.0,15.0
+304,92156,Mingo Tract,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101010020,Caldwell,Northern Mountains,5648.31185518,246040464.412,216009.949312,1.0,305,,
+305,256,Mocassin Creek (G),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020203,03020203010010,Wake,Central Piedmont,83.10924738999998,3620238.81619,10699.062227,1.0,306,,
+306,92212,Moccasin Creek-Buffer (G),Full Delivery,Inactive,Long Term Mangement,Neuse,03020201,03020201160010,Johnston,Northern Inner Coastal Plain,20.51537343,893649.666409,8353.75453018,1.0,307,1.0,1.0
+307,92227,Modlin Site,Full Delivery,Inactive,Long Term Mangement,Roanoke,03010107,03010107150010,Martin,Northern Inner Coastal Plain,41.24114603,1796464.32117,6660.69014705,1.0,308,4.0,4.0
+308,725,Moore Property (G),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201110070,Johnston,Northern Inner Coastal Plain,84.19971128,3667739.4232,8161.539280369999,1.0,309,,
+309,94709,Moores Fork,Design-Bid-Build,Active,Active,Yadkin,03040101,03040101100010,Surry,Central Piedmont,134.32375399,5851142.72378,31260.8628508,1.0,310,1.0,1.0
+310,92527,Morgan Creek,Full Delivery,Inactive,Long Term Mangement,Broad,03050105,03050105040040,McDowell,Northern Mountains,42.6141251,1856271.28937,37939.7611593,1.0,311,1.0,1.0
+311,92240,Morgan Creek (Bolin Stewardship Tract),Design-Bid-Build,Active,Active,Cape Fear,03030002,03030002060070,Orange,Central Piedmont,17.17223883,748014.937165,7285.434297859998,1.0,312,1.0,1.0
+312,92531,Morgan Creek (French Broad),Full Delivery,Inactive,Long Term Mangement,French Broad,06010106,06010106020040,Haywood,Southern Mountains,10.24212158,446146.815811,8570.83050353,1.0,313,4.0,4.0
+313,258,Morgan Creek Floodplain,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002060080,Orange,Central Piedmont,31.53776282,1373784.94861,6381.59984389,1.0,314,4.0,4.0
+314,92270,Moye Farm Phase I (G),Full Delivery,Inactive,Long Term Mangement,Neuse,03020203,03020203050040,Greene,Northern Inner Coastal Plain,37.29502262,1624571.18522,13093.5907143,1.0,315,,
+315,259,Moye Farm Phase II (G),Full Delivery,Inactive,Long Term Mangement,Neuse,03020203,03020203070050,Greene,Northern Inner Coastal Plain,49.95924605,2176224.75789,29419.1913923,1.0,316,1.0,1.0
+316,260,Mud Creek,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105,06010105030030,Henderson,Southern Mountains,39.13395583,1704675.11598,7119.05662614,1.0,317,1.0,1.0
+317,93482,Mud Lick Creek - Thomas Site,Design-Bid-Build,Active,Active,Cape Fear,03030003,03030003070010,Chatham,Central Piedmont,11.15462072,485893.334972,6290.16611851,1.0,318,,
+318,737,Muddy Creek(Randolph/Duncan Properties),Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050101,03050101040020,McDowell,Northern Mountains,17.10889814,745263.6031329999,5673.23424529,1.0,319,1.0,1.0
+319,95354,Muddy Run II Site,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030007,03030007060010,Duplin,Southern Inner Coastal Plain,37.61795577,1638638.15337,24877.6035905,1.0,320,3.0,3.0
+320,95018,Muddy Run Site,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030007,03030007060010,Duplin,Southern Inner Coastal Plain,21.49605401,936368.112653,12786.3989211,1.0,321,3.0,3.0
+321,261,Naked Creek,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101010100,Wilkes,Northern Mountains,3.89509218,169670.215268,5383.60760042,1.0,322,1.0,1.0
+322,92179,Needmore Tract,Design-Bid-Build,Inactive,Long Term Mangement,Little Tennessee,06010202,06010202060010,Swain,Southern Mountains,4053.85421896,176585948.554,219973.483664,1.0,323,,
+323,92872,Neighbors Br./ Walton Crawley Br.,Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050101,03050101040010,McDowell,Northern Mountains,33.40468073,1455111.99182,19117.2552076,1.0,324,1.0,1.0
+324,265,Neu-Con MBI (Marston),Full Delivery,Inactive,Credit Purchase Complete,Neuse,03020204,03020204010040,Jones,Southern Outer Coastal Plain,86.10961134,3750934.66997,11130.9436271,1.0,325,,
+325,263,Neu-Con MBI (Nahunta),Full Delivery,Inactive,Credit Purchase Complete,Neuse,03020203,03020203060020,Wayne,Northern Inner Coastal Plain,188.58348715,8214696.70008,30306.1685578,1.0,326,,
+326,92089,New Hope Creek Penny,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002060110,Orange,Central Piedmont,20.14554333,877539.867483,4291.28073726,1.0,327,24.0,24.0
+327,92090,New Hope Creek Trinity School,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002060110,Orange,Central Piedmont,26.49744899,1154228.87802,5422.62682268,1.0,328,11.0,11.0
+328,92173,New River Heights Tract-New River,Design-Bid-Build,Inactive,Long Term Mangement,New,05050001,05050001020070,Ashe,Northern Mountains,109.91313144,4787816.00546,9836.37982674,1.0,329,,
+329,92497,Newfound Creek,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105,06010105090020,Buncombe,Southern Mountains,25.27474249,1100967.783,22291.6859543,1.0,330,12.0,12.0
+330,92151,Newton Tract-White Pines,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003070060,Chatham,Central Piedmont,14.52698312,632795.384729,4941.3932442,1.0,331,8.0,8.0
+331,94150,Newtown Stream and Wetland Restoration Site,Full Delivery,Inactive,Long Term Mangement,Catawba,03050103,03050103030020,Union,Southern Piedmont,16.39518091,714174.080637,10504.6185979,1.0,332,32.0,32.0
+332,441,Nicholls Farm (Troublesome Creek),Design-Bid-Build,Inactive,Long Term Mangement,Chowan,03010203,03010203090040,Bertie,Northern Outer Coastal Plain,76.68057267999998,3340205.74615,16657.8107481,1.0,333,1.0,1.0
+333,95360,Norkett Branch,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105081020,Union,Southern Piedmont,31.60485708,1376707.57439,19295.0280927,1.0,334,1.0,1.0
+334,96310,Norman's Pasture II,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030006,03030006110040,Sampson,Southern Inner Coastal Plain,16.34065158,711798.782846,11300.4179941,1.0,335,3.0,3.0
+335,95717,Norman's Pasture Stream and Riparian Wetland,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030006,03030006110040,Sampson,Southern Inner Coastal Plain,36.91992393,1608231.88633,6445.01798498,1.0,336,3.0,3.0
+336,92026,North Fork Upper Tar River Winslow,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010040,Granville,Central Piedmont,36.7939261,1602743.4209,6587.84999029,1.0,337,4.0,4.0
+337,92611,North Muddy Creek,Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101040010,McDowell,Northern Mountains,34.6535939,1509510.5504,18672.1006315,1.0,338,4.0,4.0
+338,92128,North Pacolet Childers,Design-Bid-Build,Inactive,Long Term Mangement,Broad,03050105,03050105150010,Polk,Southern Piedmont,39.84031837,1735444.26837,6226.07642472,1.0,339,15.0,15.0
+339,272,Northgate Park (Ellerbe) (G),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201050010,Durham,Central Piedmont,7.53985812,328457.908424,7050.95984707,1.0,340,7.0,7.0
+340,628,Norwood Gainey Site (G),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020202,03020202010030,Wayne,Northern Inner Coastal Plain,58.38432638,2543221.25692,9079.880610970002,1.0,341,,
+341,273,Oakley Crossroads (G),Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020103,03020103090020,Pitt,Northern Inner Coastal Plain,26.61093778,1159200.00404,9620.66256839,1.0,342,,
+342,92708,Obids Creek(Wild site),Design-Bid-Build,Inactive,Long Term Mangement,New,05050001,05050001010010,Ashe,Northern Mountains,2.59701524,113119.745074,3684.05396044,1.0,343,,
+343,92170,Old Cove Tract-Green River-Burdett Property,Design-Bid-Build,Inactive,Long Term Mangement,Broad,03050105,03050105020020,Polk,Southern Piedmont,23.98100048,1044612.38107,4755.16911574,1.0,344,12.0,12.0
+344,275,Open Springs,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030003,03030003020020,Randolph,Central Piedmont,15.1435929,659654.906883,10043.2472351,1.0,345,,
+345,276,Paschal GC (Richland Ck) (G),Design-Bid-Build,Active,Active,Neuse,03020201,03020201070060,Wake,Central Piedmont,8.53083197,371610.25082,6343.28622429,1.0,346,1.0,1.0
+346,279,Payne Dairy,Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050101,03050101120040,Alexander,Central Piedmont,40.21635905,1751824.60019,16158.1514436,1.0,347,1.0,1.0
+347,95713,Pepperwood Riparian Buffer Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Neuse,03020201,03020201120010,Wake,Central Piedmont,12.64971287,551021.492821,12098.6967729,1.0,348,1.0,1.0
+348,283,Perry Property (UT to Pembroke),Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205,03010205120010,Chowan,Northern Outer Coastal Plain,59.40330535,2587607.98093,15004.9491638,1.0,349,1.0,1.0
+349,92159,Pickler's Bluff,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040102,03040102050030,Rowan,Central Piedmont,10.5311829,458738.327149,2759.99980361,1.0,350,28.0,28.0
+350,92518,Pinch Gut Tributary,Full Delivery,Inactive,Long Term Mangement,Roanoke,03010103,03010103170030,Stokes,Central Piedmont,31.77722662,1384215.99167,21450.3102633,1.0,351,1.0,1.0
+351,92607,Plemmons-Kirkpatrick Spring Creek WRC,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105,06010105120010,Madison,Northern Mountains,2.09950832,91454.5824385,1624.46950284,1.0,352,,
+352,92549,Plum Creek,Full Delivery,Inactive,Long Term Mangement,Lumber,03040207,03040207020010,Brunswick,Southern Outer Coastal Plain,89.36170631,3892595.92693,8276.31784992,1.0,353,,
+353,285,Pott Creek,Full Delivery,Inactive,Long Term Mangement,Catawba,03050102,03050102040020,Lincoln,Southern Piedmont,75.23446198,3277213.16386,11917.7892679,1.0,354,,
+354,286,Pott Creek II,Full Delivery,Inactive,Long Term Mangement,Catawba,03050102,03050102040020,Catawba,Central Piedmont,90.08144216,3923947.62057,19327.257271,1.0,355,1.0,1.0
+355,92548,Powell Property,Full Delivery,Inactive,Long Term Mangement,Chowan,03010203,03010203050011,Bertie,Northern Outer Coastal Plain,55.94949409,2437159.96272,9649.96647933,1.0,356,1.0,1.0
+356,289,Prestonwood G.C.,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201080010,Wake,Central Piedmont,9.32171519,405975.168972,10448.7258059,1.0,357,1.0,1.0
+357,291,Price Park,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002020010,Guilford,Central Piedmont,8.24443691,358923.108421,4343.29684975,1.0,358,4.0,4.0
+358,293,Privateer Farms,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030005,03030005010020,Cumberland,Southern Inner Coastal Plain,430.00007222,18730803.1458,51775.4928792,1.0,359,,
+359,92522,Puzzle Creek,Full Delivery,Inactive,Long Term Mangement,Broad,03050105,03050105070050,Rutherford,Southern Piedmont,11.4079922,496932.140211,8382.767116639998,1.0,360,1.0,1.0
+360,92167,Rankin Tract,Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050101,03050101160040,Gaston,Southern Piedmont,506.13701698,22047328.4596,31556.0276427,1.0,361,57.0,57.0
+361,92220,Reeds Creek,Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101150010,Iredell,Central Piedmont,15.09892199,657709.041951,5103.9774289,1.0,362,1.0,1.0
+362,301,Reedy Branch,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002050050,Alamance,Central Piedmont,15.5346288,676688.43034,5144.93967985,1.0,363,1.0,1.0
+363,92050,Reedy Creek Johnston,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102030010,Warren,Central Piedmont,64.6872816,2817777.98657,17564.3089065,1.0,364,37.0,37.0
+364,92344,Rhodes Pond,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030006,03030006010010,Cumberland,Southern Inner Coastal Plain,702.97601762,30621635.3274,42896.556798,1.0,365,,
+365,303,Rich Fork FDP (Bodenheimer-Parker),Full Delivery,Inactive,Long Term Mangement,Yadkin,03040103,03040103030030,Davidson,Central Piedmont,26.52542965,1155447.71536,5143.78871187,1.0,366,,
+366,92758,Rockwell Pastures,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040104,03040104010020,Stanly,Southern Piedmont,51.07761053,2224940.71486,37054.001312,1.0,367,1.0,1.0
+367,308,Rocky Branch,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040102,03040102020030,Yadkin,Central Piedmont,24.09538313,1049594.88896,8103.44601624,1.0,368,,
+368,312,Roquist,Design-Bid-Build,Inactive,Long Term Mangement,Roanoke,03010107,03010107130010,Bertie,Northern Outer Coastal Plain,3904.67976881,170087850.729,98093.5519026,1.0,369,9.0,9.0
+369,96309,Roses Creek Stream Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101060030,Burke,Northern Mountains,17.61221257,767187.979453,9265.82317607,1.0,370,1.0,1.0
+370,97005,Rough Horn Swamp Restoration Site,Full Delivery,Active,Active,Lumber,03040203,03040203190010,Columbus,Southern Inner Coastal Plain,33.49754786,1459153.18496,7306.93080354,1.0,371,,
+371,317,Rowan Branch,Design-Bid-Build,Active,Active,Cape Fear,03030006,03030006110030,Sampson,Southern Inner Coastal Plain,96.6610456,4210555.1464,14682.4320359,1.0,372,1.0,1.0
+372,746,Rowel Branch,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030005,03030005040010,Brunswick,Southern Outer Coastal Plain,16.46949639,717411.2629,9072.11829017,1.0,373,,
+373,92675,SALT (Sandhill Area Land Trust),Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030004,03030004070050,Moore,Southern Piedmont,346.69200127,15101966.1899,21238.9116305,1.0,374,,
+374,96920,Sandy Bridge Farm,Full Delivery,Inactive,Long Term Mangement,Broad,03050105,03050105070020,Rutherford,Southern Piedmont,9.45404067,411818.011703,3268.208646,1.0,375,1.0,1.0
+375,321,Sandy Creek,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003020010,Randolph,Central Piedmont,12.90465502,562126.772508,3734.1313499,1.0,376,1.0,1.0
+376,322,Sandy Creek,Design-Bid-Build,Active,Active,Cape Fear,03030002,03030002060110,Durham,Central Piedmont,22.63206848,985852.90317,7838.65046364,1.0,377,4.0,4.0
+377,80,Sandy Creek -- Charles Williams (G),Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003020010,Randolph,Central Piedmont,18.00349117,784232.075157,10772.7900627,1.0,378,,
+378,92052,Sandy Creek Mullen,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101130040,Franklin,Central Piedmont,28.63650517,1247406.16509,7265.46024381,1.0,379,12.0,12.0
+379,92028,Sandy Creek Parrish,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101130050,Franklin,Central Piedmont,33.39178609,1454546.20224,10811.3564702,1.0,380,57.0,57.0
+380,92175,Sandymush HQP-Progress Energy,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105,06010105100020,Madison,Northern Mountains,2684.19603037,116923579.083,218256.002117,1.0,381,,
+381,94148,Scaly Bark Creek Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105060030,Stanly,Southern Piedmont,26.5842377,1158009.394,15979.4100293,1.0,382,1.0,1.0
+382,92081,Sevenmile Creek Camp Chestnut Ridge,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201030020,Orange,Central Piedmont,59.74832292,2602636.94628,11089.2523796,1.0,383,1.0,1.0
+383,92916,Shadrick Creek,Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050101,03050101030060,McDowell,Northern Mountains,54.52827593,2375217.46177,27072.3443326,1.0,384,7.0,7.0
+384,92241,Sharpe Wetland Preservation,Design-Bid-Build,Active,Active,Cape Fear,03030002,03030002010010,Rockingham,Central Piedmont,17.12219079,745842.630871,5709.76987362,1.0,385,1.0,1.0
+385,92029,Shelton Creek Peterson,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010030,Granville,Central Piedmont,41.13794674,1791968.96011,9277.0740801,1.0,386,26.0,26.0
+386,92055,Shelton Creek Slaughter,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010030,Granville,Central Piedmont,35.25045414,1535509.78252,6237.13636771,1.0,387,11.0,11.0
+387,92056,Shelton Creek Thorp/Morton,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010030,Granville,Central Piedmont,58.09745346,2530523.95975,10897.8326058,1.0,388,4.0,4.0
+388,92030,Shelton Creek Tucker-Daniel 1,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010030,Granville,Central Piedmont,19.34949514,842864.008473,4279.79566395,1.0,389,11.0,11.0
+389,92018,Shelton Creek Tucker-Daniel 2,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010030,Granville,Central Piedmont,3.44079142,149921.159713,1967.3245421,1.0,390,23.0,23.0
+390,333,Shepherd's Tree,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040102,03040102040030,Iredell,Central Piedmont,161.89272588,7051887.39867,17604.535202,1.0,391,1.0,1.0
+391,92031,Shocco Creek Alston 1; 2; 3,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102010040,Franklin,Central Piedmont,344.16045851,14991653.1615,71108.2235879,1.0,392,286.0,286.0
+392,92057,Shocco Creek D Davis,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102010040,Warren,Central Piedmont,12.28381536,535082.997111,3824.40558446,1.0,393,44.0,44.0
+393,92059,Shocco Creek Gupton,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102010040,Franklin,Central Piedmont,179.94926968,7838590.187409999,18373.8100502,1.0,394,,
+394,92137,Shocco Creek LLC-Little Shocco Creek,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020102,03020102010030,Franklin,Central Piedmont,40.4261894,1760964.81034,11640.971638,1.0,395,40.0,40.0
+395,335,Silas Creek,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101170040,Forsyth,Central Piedmont,15.28401102,665756.755545,9704.76237968,1.0,396,4.0,4.0
+396,336,Silver Creek,Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101050050,Burke,Northern Mountains,31.7624713,1383577.73667,18234.5095406,1.0,397,,
+397,92233,Simpson Buffer (G),Full Delivery,Inactive,Long Term Mangement,Tar-Pamlico,03020104,03020104080010,Beaufort,Northern Outer Coastal Plain,45.00338463,1960347.43441,21252.6395285,1.0,398,3.0,3.0
+398,92234,Simpson Wetland,Full Delivery,Inactive,Long Term Mangement,Tar-Pamlico,03020104,03020104080010,Beaufort,Northern Outer Coastal Plain,30.00016373,1306807.13223,5600.96002146,1.0,399,3.0,3.0
+399,92663,Sink Hole Creek,Full Delivery,Inactive,Long Term Mangement,French Broad,06010108,06010108040010,Mitchell,Northern Mountains,10.36805548,451632.496755,12447.4800641,1.0,400,6.0,6.0
+400,92130,Skyuka Creek Luthi,Design-Bid-Build,Inactive,Long Term Mangement,Broad,03050105,03050105150010,Polk,Southern Piedmont,19.55434739,851787.37222,4231.60604484,1.0,401,7.0,7.0
+401,340,Sleepy Creek,Full Delivery,Inactive,Long Term Mangement,Neuse,03020202,03020202030030,Lenoir,Southern Inner Coastal Plain,115.59940531,5035510.09537,10670.8801902,1.0,402,,
+402,95017,Sliver Moon Non-Riparian Wetland Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Neuse,03020202,03020202080010,Craven,Southern Outer Coastal Plain,17.08217208,744099.415994,3698.8605957,1.0,403,,
+403,343,Smith/Austin Creek (G),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201070070,Wake,Central Piedmont,36.75637428,1601107.66377,21056.6845092,1.0,404,,
+404,344,Snow Creek,Design-Bid-Build,Inactive,Long Term Mangement,Roanoke,03010103,03010103180010,Stokes,Central Piedmont,17.20436702,749422.2272629999,8638.12517594,1.0,405,1.0,1.0
+405,92764,Snowbird Tributaries,Full Delivery,Inactive,Long Term Mangement,Little Tennessee,06010204,06010204020010,Graham,Southern Mountains,13.06269299,569010.906636,17566.6503826,1.0,406,1.0,1.0
+406,346,South Fork,Full Delivery,Inactive,Long Term Mangement,Catawba,03050102,03050102040010,Catawba,Central Piedmont,67.79676616,2953227.13403,21952.4743434,1.0,407,,
+407,92701,South Fork Big Pine Creek(Charles/McGinnis),Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105,06010105100040,Madison,Northern Mountains,1.09704686,47787.3612476,2359.50014926,1.0,408,,
+408,347,South Fork Hopper,Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101040020,McDowell,Northern Mountains,33.45450896,1457278.41024,12166.2113026,1.0,409,,
+409,348,South Muddy Creek,Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101040020,McDowell,Northern Mountains,29.25259668,1274104.31179,23405.2897713,1.0,410,1.0,1.0
+410,349,Sparta Bog,Design-Bid-Build,Inactive,Long Term Mangement,New,05050001,05050001030020,Alleghany,Northern Mountains,310.64586244,13531648.2464,29181.0838455,1.0,411,16.0,16.0
+411,351,Speight Branch,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201110010,Wake,Central Piedmont,28.28992569,1232309.16293,5558.66291618,1.0,412,7.0,7.0
+412,354,Spring Valley Park,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002020050,Guilford,Central Piedmont,3.39379942,147833.902881,3466.14939173,1.0,413,,
+413,95015,St Clair Creek Restoration Project,Full Delivery,Inactive,Long Term Mangement,Tar-Pamlico,03020104,03020104040040,Beaufort,Northern Outer Coastal Plain,17.43324133,759391.9922139999,7883.93418783,1.0,414,1.0,1.0
+414,357,Stallings (G),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020204,03020204010050,Jones,Southern Outer Coastal Plain,145.40417455,6333626.2546,15375.5672245,1.0,415,4.0,4.0
+415,95838,Stanley's II,Full Delivery,Inactive,Long Term Mangement,Chowan,03010204,03010204180040,Northampton,Northern Inner Coastal Plain,8.82958279,384616.626156,5612.06458568,1.0,416,3.0,3.0
+416,95356,Stanleys Slough Stream and Wetland Site,Full Delivery,Inactive,Long Term Mangement,Chowan,03010204,03010204180040,Northampton,Northern Inner Coastal Plain,18.08498471,787781.9339039999,10363.2479327,1.0,417,3.0,3.0
+417,360,Starmount Forest CC,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002020040,Guilford,Central Piedmont,7.79750449,339659.295614,14788.1314067,1.0,418,,
+418,92145,Stevens Tract-Eno River,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201030050,Durham,Central Piedmont,70.54970703,3073318.95248,8056.89219611,1.0,419,,
+419,363,Stillhouse Creek (G),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201030020,Orange,Central Piedmont,2.08916382,91003.9762063,2753.02207898,1.0,420,14.0,14.0
+420,364,Stone Mountain,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101060030,Wilkes,Northern Mountains,49.94382789,2175553.14304,17084.8741002,1.0,421,,
+421,365,Stonebridge,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030003,03030003060020,Moore,Southern Piedmont,16.25338737,707997.553773,9614.92983648,1.0,422,,
+422,92556,Stricker Branch,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105020040,Cabarrus,Southern Piedmont,7.68347218,334692.048353,6488.19859211,1.0,423,1.0,1.0
+423,366,Sturgeon City (Phase I),Design-Bid-Build,Inactive,Long Term Mangement,White Oak,03030001,03030001010050,Onslow,Southern Outer Coastal Plain,2.75117678,119831.709369,2631.84805261,1.0,424,9.0,9.0
+424,367,Sturgeon City (Phase II),Design-Bid-Build,Inactive,Long Term Mangement,White Oak,03030001,03030001010050,Onslow,Southern Outer Coastal Plain,3.25741534,141954.560566,4607.56000238,1.0,425,9.0,9.0
+425,368,Suck Creek,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003050020,Moore,Southern Piedmont,9.22577637,401874.818583,5454.70982495,1.0,426,1.0,1.0
+426,94646,Summit Seep Wetland Mitigation,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040103,03040103020010,Davidson,Central Piedmont,6.43527704,280320.667884,2715.22991264,1.0,427,1.0,1.0
+427,370,Suther,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040105,03040105020050,Cabarrus,Southern Piedmont,67.47071004,2939024.12915,22744.3149282,1.0,428,,
+428,92249,Swift Creek Watershed Wetlands,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201110020,Wake,Central Piedmont,41.68855879,1815953.6211,7324.22217634,1.0,429,10.0,10.0
+429,92027,Swift/Sandy Creek A&P Timber,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101130040,Franklin,Central Piedmont,18.34064068,798918.3079249999,5739.55294258,1.0,430,31.0,31.0
+430,92051,Swift/Sandy Creek Faulkner,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101130040,Franklin,Central Piedmont,20.18870079,879419.806374,5148.75756396,1.0,431,21.0,21.0
+431,92054,Swift/Sandy Creek Young,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101130040,Franklin,Central Piedmont,71.4705645,3113257.78955,14501.3297565,1.0,432,30.0,30.0
+432,92032,Tar River Averett,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010060,Granville,Central Piedmont,11.36028244,494853.903017,3944.04734694,1.0,433,17.0,17.0
+433,92033,Tar River B Harris,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010050,Granville,Central Piedmont,38.82801433,1691348.30423,11189.9896783,1.0,434,34.0,34.0
+434,92066,Tar River Betty Crews,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010060,Granville,Central Piedmont,31.5855423,1375866.22273,10530.6302952,1.0,435,80.0,80.0
+435,92069,Tar River Dean,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010050,Granville,Central Piedmont,63.51073298,2766527.52867,10965.9879232,1.0,436,17.0,17.0
+436,97071,Tar River Headwaters Wetland Restoration Site,Full Delivery,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010010,Person,Central Piedmont,9.89724178,431123.851731,3749.02643022,1.0,437,2.0,2.0
+437,92034,Tar River Hodges,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101040010,Franklin,Central Piedmont,41.70328379,1816595.04167,8014.08994437,1.0,438,48.0,48.0
+438,92071,Tar River Oakley,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010050,Granville,Central Piedmont,13.42605321,584838.877756,4082.09732941,1.0,439,29.0,29.0
+439,92072,Tar River Pitts,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101020010,Granville,Central Piedmont,28.10597288,1224296.17854,7366.56352099,1.0,440,38.0,38.0
+440,92080,Tar River Pories,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020103,03020103040010,Pitt,Northern Inner Coastal Plain,37.46424555,1631942.53638,11587.459423,1.0,441,1.0,1.0
+441,92073,Tar River Roy Crews,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010060,Granville,Central Piedmont,10.06713298,438524.312467,3372.05272783,1.0,442,71.0,71.0
+442,92075,Tar River Sherman,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010010,Granville,Central Piedmont,15.96589148,695474.233008,4464.01525744,1.0,443,4.0,4.0
+443,92076,Tar River Sherman 2,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010010,Granville,Central Piedmont,28.05914798,1222256.48586,9207.319950870002,1.0,444,12.0,12.0
+444,92077,Tar River Smitherman,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101010060,Granville,Central Piedmont,20.26467821,882729.38301,4829.9996906,1.0,445,17.0,17.0
+445,92211,Tarlton Swamp,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030004,03030004100050,Cumberland,Southern Inner Coastal Plain,17.75506816,773410.769201,8010.48806317,1.0,446,1.0,1.0
+446,372,Tate Farm,Design-Bid-Build,Inactive,Long Term Mangement,New,05050001,05050001010050,Ashe,Northern Mountains,61.42089621,2675483.53681,51143.5987434,1.0,447,62.0,62.0
+447,134,Terrible Creek Buffer (Fish Property) (G),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201120010,Wake,Central Piedmont,48.46194689,2111002.40645,13623.028145,1.0,448,,
+448,94801,PRMUSACE - The Cliffs at Walnut Cove,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105,06010105010010,Buncombe,Southern Mountains,19.42950643,846349.300176,26161.1566101,1.0,449,,
+449,96074,Thomas Creek,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030004,03030004020010,Wake,Central Piedmont,22.73728417,990436.098544,15027.3189534,1.0,450,4.0,4.0
+450,92524,Thompson's Fork and Tributary,Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101040010,McDowell,Northern Mountains,12.19541582,531254.619137,9943.48916101,1.0,451,1.0,1.0
+451,92664,Three Mile Creek,Full Delivery,Inactive,Long Term Mangement,French Broad,06010108,06010108010020,Avery,Northern Mountains,26.66253077,1161419.84042,21630.6777056,1.0,452,1.0,1.0
+452,379,Tick Creek (Condoret Tract),Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003070020,Chatham,Central Piedmont,29.36420339,1279069.92138,10860.988528,1.0,453,,
+453,92557,Timberlake (Great Dismal Swamp),Full Delivery,Inactive,Credit Purchase Complete,Pasquotank,03010205,03010205180010,Tyrrell,Northern Outer Coastal Plain,11.38697876,496016.794831,10185.6095563,1.0,454,3.0,3.0
+454,95026,Town Creek Restoration Project,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105060040,Stanly,Southern Piedmont,11.97140856,521474.557055,7879.97467236,1.0,455,1.0,1.0
+455,95022,Tributaries of Wicker Branch Stream Enhancement,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105081010,Union,Southern Piedmont,15.48846561,674677.562156,10408.2972406,1.0,456,1.0,1.0
+456,92528,Tributary to Reedy Fork Creek,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002020070,Guilford,Central Piedmont,19.64745018,855842.929937,12789.0237323,1.0,457,1.0,1.0
+457,388,Trout Cove Branch,Design-Bid-Build,Inactive,Long Term Mangement,Hiwassee,06020002,06020002090010,Clay,Southern Mountains,8.48344506,369538.866841,8357.66560164,1.0,458,1.0,1.0
+458,390,Tulula,Design-Bid-Build,Inactive,Long Term Mangement,Little Tennessee,06010204,06010204010010,Graham,Southern Mountains,242.30015603,10554487.0222,22883.1214001,1.0,459,2.0,2.0
+459,95363,Twin Bays,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030007,03030007090040,Duplin,Southern Inner Coastal Plain,11.721655,510595.291858,4067.94788219,1.0,460,1.0,1.0
+460,94641,Underwood Mitigation site,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002050050,Chatham,Central Piedmont,37.74929821,1644359.43008,19906.3354025,1.0,461,9.0,9.0
+461,94645,Upper Silver Creek Stream and Wetland,Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101050050,Burke,Northern Mountains,22.07115231,961435.260048,7609.87701895,1.0,462,1.0,1.0
+462,92632,Upper South Hominy Creek,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105,06010105060020,Buncombe,Southern Mountains,16.42264459,715370.398322,14304.2584763,1.0,463,1.0,1.0
+463,395,Upper UT to Cane Creek (Picard),Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002050050,Alamance,Central Piedmont,51.0538973,2223907.76635,13976.1600177,1.0,464,1.0,1.0
+464,92347,UT Bear Creek (Weaver/McLeod property) (G),Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003070050,Chatham,Central Piedmont,31.9976633,1393811.21449,24824.3017657,1.0,465,1.0,1.0
+465,92500,UT Clarke Creek,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040105,03040105010040,Mecklenburg,Southern Piedmont,57.20866766,2492009.56344,7166.28972328,1.0,466,4.0,4.0
+466,92682,UT Neuse (The Big Ditch),Design-Bid-Build,Active,Active,Neuse,03020201,03020201200040,Wayne,Northern Inner Coastal Plain,9.8587432,429446.853669,7982.29553326,1.0,467,7.0,7.0
+467,92383,UT Rocky River - Harris Road Middle,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040105,03040105010010,Cabarrus,Southern Piedmont,20.22109143,880794.589285,9059.66278002,1.0,468,1.0,1.0
+468,92837,UT to Altamahaw,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002030010,Alamance,Central Piedmont,3.75426265,163535.68119,2886.01029643,1.0,469,1.0,1.0
+469,92598,UT to Back Creek,Design-Bid-Build,Active,Active,Cape Fear,03030002,03030002030070,Orange,Central Piedmont,15.22742092,663306.455361,7230.64930052,1.0,470,1.0,1.0
+470,92596,UT to Bald Creek,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010108,06010108080020,Yancey,Northern Mountains,12.73729075,554836.385262,11829.9693944,1.0,471,1.0,1.0
+471,397,UT to Barnes Creek (HurleySite),Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040103,03040103050080,Montgomery,Southern Piedmont,16.77555163,730743.029067,6214.99633819,1.0,472,1.0,1.0
+472,92719,UT to Bear Creek (Phillips),Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003070050,Chatham,Central Piedmont,11.90751285,518691.25972,8578.890429979998,1.0,473,,
+473,95729,UT to Cane Creek,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002050050,Alamance,Central Piedmont,19.95895862,869412.2376739999,12766.9460308,1.0,474,1.0,1.0
+474,857,UT to Crab Creek,Design-Bid-Build,Inactive,Long Term Mangement,New,05050001,05050001030020,Alleghany,Northern Mountains,47.75524051,2080218.27677,14993.8490545,1.0,475,1.0,1.0
+475,434,UT to Crooked Creek/Speas Property (G),Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101060020,Franklin,Central Piedmont,35.76806423,1558047.14073,19198.1220936,1.0,476,1.0,1.0
+476,95389,UT to Falls Lake (McDaniel Farm),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201050030,Durham,Central Piedmont,10.85604654,472889.387277,3206.78838925,1.0,477,1.0,1.0
+477,93876,UT to Goose Creek (Coats),Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050101,03050101040010,McDowell,Northern Mountains,31.06124253,1353027.72446,12274.3798305,1.0,478,17.0,17.0
+478,92471,UT to Hauser Creek,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101160010,Davie,Central Piedmont,9.10691521,396697.22646,5366.66993804,1.0,479,1.0,1.0
+479,92694,UT to Haw (Beckom),Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002030010,Alamance,Central Piedmont,10.15203947,442222.839479,10073.4402615,1.0,480,1.0,1.0
+480,92753,UT to Haw (Gwynn),Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002030010,Alamance,Central Piedmont,13.11520172,571298.186728,8799.80167699,1.0,481,1.0,1.0
+481,747,UT to Haw River,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002030010,Alamance,Central Piedmont,39.35884538,1714471.30462,24190.9608254,1.0,482,34.0,34.0
+482,92345,UT to Jumping Run Creek,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030004,03030004090010,Cumberland,Southern Inner Coastal Plain,225.30521199,9814297.61685,27411.0045557,1.0,483,,
+483,92705,Ut to Laxon Creek (Carp site),Design-Bid-Build,Inactive,Long Term Mangement,New,05050001,05050001020020,Watauga,Northern Mountains,0.67449754,29381.113029,994.940161156,1.0,484,,
+484,290,UT to Lilliput Creek (Hog Branch Ponds),Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030005,03030005070010,Brunswick,Southern Outer Coastal Plain,516.74381111,22509467.6238,30241.7229906,1.0,485,,
+485,314,UT to Little Coharie Creek (Roseboro Site),Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030006,03030006080030,Sampson,Southern Inner Coastal Plain,5.28028133,230034.727146,5159.47798335,1.0,486,,
+486,92766,UT to Martins Creek (Contreras),Design-Bid-Build,Inactive,Long Term Mangement,Hiwassee,06020002,06020002170010,Cherokee,Southern Mountains,15.62889191,680794.531772,11345.1099361,1.0,487,1.0,1.0
+487,95719,UT to Millers Creek Site,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030006,03030006110040,Duplin,Southern Inner Coastal Plain,15.94439498,694537.845373,6259.37444126,1.0,488,1.0,1.0
+488,93873,UT to North Muddy Creek (Allen),Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050101,03050101040010,McDowell,Northern Mountains,34.28741179,1493559.65747,13084.9286169,1.0,489,1.0,1.0
+489,93874,UT to North Muddy Creek (Haney),Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050101,03050101040010,McDowell,Northern Mountains,17.84210993,777202.308578,7333.23018852,1.0,490,24.0,24.0
+490,92704,Ut to Peak Creek (Bare site),Design-Bid-Build,Inactive,Long Term Mangement,New,05050001,05050001010010,Ashe,Northern Mountains,3.0241517,131732.048135,4450.84091092,1.0,491,,
+491,402,UT to Rocky River (Smith Tract),Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003070020,Chatham,Central Piedmont,9.09386932,396128.947401,5258.29976644,1.0,492,,
+492,403,UT to Sandy Creek (Williams Tract),Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003020010,Randolph,Central Piedmont,9.96127353,433913.074811,5807.18465125,1.0,493,,
+493,435,UT to South Fork Creek (Hadley-Newlin),Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002050050,Alamance,Central Piedmont,29.02400628,1264285.71348,11682.7098766,1.0,494,10.0,10.0
+494,405,UT to South Fork Creek (Stephens),Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002050050,Alamance,Central Piedmont,22.47253269,978903.523939,12189.1938645,1.0,495,12.0,12.0
+495,94068,UT To The Lumber River,Full Delivery,Inactive,Long Term Mangement,Lumber,03040203,03040203030010,Robeson,Southern Inner Coastal Plain,64.89670291,2827086.07855,32795.4244884,1.0,496,4.0,4.0
+496,847,UT to Uwharrie,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040103,03040103050010,Randolph,Central Piedmont,32.82275624,1429759.26189,11607.41072,1.0,497,1.0,1.0
+497,92684,UT West Branch Rocky River,Design-Bid-Build,Active,Active,Yadkin,03040105,03040105010010,Mecklenburg,Southern Piedmont,58.86274552,2564061.19497,8954.8956484,1.0,498,7.0,7.0
+498,92108,Uwharrie River Bingham,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040103,03040103050080,Montgomery,Southern Piedmont,564.90564169,24607289.7522,85879.7007693,1.0,499,7.0,7.0
+499,92109,Uwharrie River Cochran,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040103,03040103050080,Montgomery,Southern Piedmont,15.35072962,668677.782326,4816.15226693,1.0,500,25.0,25.0
+500,92110,Uwharrie River Whatley,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040103,03040103050020,Randolph,Central Piedmont,15.87818402,691653.696125,5783.58960781,1.0,501,12.0,12.0
+501,407,Valleyfields Farm,Design-Bid-Build,Active,Active,Yadkin,03040103,03040103030030,Davidson,Central Piedmont,96.99584372,4225138.95246,37018.8199079,1.0,502,,
+502,94015,Vicki's Thicket Riparian Buffer Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Neuse,03020202,03020202080010,Craven,Southern Outer Coastal Plain,31.44907479,1369921.69799,7330.57865829,1.0,503,1.0,1.0
+503,96582,Vile Creek Mitigation Site,Full Delivery,Inactive,Long Term Mangement,New,05050001,05050001030020,Alleghany,Northern Mountains,25.02821101,1090228.87138,14194.9665627,1.0,504,1.0,1.0
+504,409,Wake Forest C.C.,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201065020,Wake,Central Piedmont,10.36187473,450690.111997,7624.573474529999,1.0,505,1.0,1.0
+505,92103,Wallace Deer Club Tract 3-5,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030007,03030007100040,Pender,Southern Outer Coastal Plain,205.18704263,8937947.57691,18914.8842955,1.0,506,,
+506,410,Walnut Creek (Buffer) (G),Full Delivery,Inactive,Long Term Mangement,Neuse,03020202,03020202010040,Wayne,Northern Inner Coastal Plain,27.8912373,1214942.29695,11561.7436375,1.0,507,,
+507,412,Warrior Creek,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101010110,Wilkes,Northern Mountains,18.21382809,791769.7236089999,20333.7785786,1.0,508,4.0,4.0
+508,413,Watts Property,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205,03010205060020,Perquimans,Northern Outer Coastal Plain,48.09188142,2095004.49173,6738.95740107,1.0,509,,
+509,92786,Waxhaw Creek Wetland #2,Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050103,03050103030030,Union,Southern Piedmont,20.98716127,914200.744929,6327.76461508,1.0,510,4.0,4.0
+510,414,Wells Creek,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002050050,Alamance,Central Piedmont,20.49660116,892831.94645,13719.662588,1.0,511,11.0,11.0
+511,92688,Wells Creek #2,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030002,03030002050050,Alamance,Central Piedmont,12.38424539,539468.401659,8505.01823402,1.0,512,11.0,11.0
+512,92153,Wells Tract; Cape Fear River,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030007,03030007100010,Pender,Southern Outer Coastal Plain,100.74603454,4388723.1717,9907.65603997,1.0,513,,
+513,417,White Oak Creek,Full Delivery,Inactive,Long Term Mangement,Neuse,03020201,03020201110040,Johnston,Northern Inner Coastal Plain,50.69713512,2208367.20587,7115.32049028,1.0,514,1.0,1.0
+514,93861,White Pines Hearn,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003,03030003070060,Lee,Southern Piedmont,122.83202361,5350562.94837,13456.500307,1.0,515,,
+515,420,Whitelace Ck* (G),Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020202,03020202040020,Lenoir,Southern Inner Coastal Plain,35.81422808,1560067.77532,12328.3298925,1.0,516,1.0,1.0
+516,92216,Whitley Site (G),Full Delivery,Inactive,Long Term Mangement,Neuse,03020201,03020201140010,Johnston,Northern Inner Coastal Plain,27.50005898,1197902.56924,8521.86021266,1.0,517,1.0,1.0
+517,423,Wike Property (Lyle Creek),Design-Bid-Build,Inactive,Long Term Mangement,Catawba,03050101,03050101140010,Catawba,Central Piedmont,14.11090157,614670.872283,5274.91983062,1.0,518,1.0,1.0
+518,92508,Wildcat Branch,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030004,03030004070020,Lee,Southern Piedmont,40.37744075,1758841.31897,10520.2585962,1.0,519,1.0,1.0
+519,92140,William O'Neal Tract-Swift Creek,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101130040,Franklin,Central Piedmont,18.50297859,805989.7473819999,3969.70948968,1.0,520,12.0,12.0
+520,92165,Wimberley Tract-Nat's Creek,Design-Bid-Build,Inactive,Long Term Mangement,Lumber,03040203,03040203010020,Moore,Southern Piedmont,33.82072885,1473230.94874,7017.71939449,1.0,521,12.0,12.0
+521,92551,Wolf Pond,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105070010,Union,Southern Piedmont,13.15617803,573083.115191,8850.66032514,1.0,522,1.0,1.0
+522,92606,WRC Bowlin-Peak Creek,Design-Bid-Build,Inactive,Long Term Mangement,New,05050001,05050001020050,Ashe,Northern Mountains,3.06624127,133565.469908,5209.84796148,1.0,523,,
+523,432,Zack's Fork Ck RFP*,Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101080010,Caldwell,Northern Mountains,16.04698692,697907.458509,10602.5684207,1.0,524,4.0,4.0
+524,95007,Wall Riparian Buffer Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030003,03030003010070,Randolph,Central Piedmont,12.91658576,562646.4759,10381.5318287,1.0,525,1.0,1.0
+525,95019,UT to Mill Swamp Restoration Project,Full Delivery,Inactive,Long Term Mangement,White Oak,03030001,03030001010020,Onslow,Southern Outer Coastal Plain,19.42175031,846011.443391,8827.08587161,1.0,526,1.0,1.0
+526,97083,Lochill Farm Stream Mitigation Project,Full Delivery,Active,Active,Neuse,03020201,03020201030030,Orange,Central Piedmont,15.87708447,691605.799658,11013.548893,1.0,527,,
+527,100003,Russell Gap,Full Delivery,Active,Active,Catawba,03050101,03050101120010,Alexander,Central Piedmont,35.97740548,1567175.78291,25363.7533739,1.0,528,1.0,1.0
+528,25,Bear Creek,Full Delivery,Inactive,Credit Purchase Complete,Neuse,03020202,03020202030030,Lenoir,Southern Inner Coastal Plain,197.82869447,8617417.93131,24672.018945,1.0,529,,
+529,97135,Lone Hickory Mitigation Site,Full Delivery,Active,Active,Yadkin,03040101,03040101130020,Yadkin,Central Piedmont,103.18365426,4494662.00104,20374.3979572,1.0,530,1.0,1.0
+530,100024,Meadow Brook Site,Full Delivery,Active,Active,Yadkin,03040101,03040101130020,Yadkin,Central Piedmont,11.21252819,488415.774444,5438.54523066,1.0,531,1.0,1.0
+531,168,Haw River Swamp II,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002010020,Rockingham,Central Piedmont,20.75689164,904170.1999590001,4491.49814476,1.0,532,,
+532,100005,Harrell Stream and Wetland Site,Full Delivery,Active,Active,Little Tennessee,06010203,06010203010060,Jackson,Southern Mountains,8.44810879,368012.854052,4899.22817989,1.0,533,1.0,1.0
+533,97085,Stony Fork Restoration Site,Full Delivery,Active,Active,Neuse,03020201,03020201150010,Johnston,Northern Inner Coastal Plain,24.3893923,1062397.67882,12440.9622955,1.0,534,,
+534,72,Cato,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040105,03040105010020,Mecklenburg,Southern Piedmont,5.76432825,251094.138576,3766.20975635,1.0,535,4.0,4.0
+535,97136,Mill Dam Creek Restoration Project,Full Delivery,Active,Active,Yadkin,03040101,03040101110070,Yadkin,Central Piedmont,40.19883125,1751054.08481,27069.7434044,1.0,536,1.0,1.0
+536,100004,Fletcher Stream and Wetland Site,Full Delivery,Active,Active,French Broad,06010105,06010105040010,Henderson,Southern Mountains,34.81112914,1516366.72001,21753.4020914,1.0,537,5.0,5.0
+537,97086,Alliance Headwaters Stream Mitigation Site-Option A,Full Delivery,Active,Active,Neuse,03020201,03020201150020,Johnston,Northern Inner Coastal Plain,71.72108187,3124157.82971,14389.9606997,1.0,538,1.0,1.0
+538,97131,Deep Meadow Mitigation Site,Full Delivery,Active,Active,Yadkin,03040105,03040105070060,Union,Southern Piedmont,22.70385471,988975.955092,8138.94592828,1.0,539,1.0,1.0
+539,100015,Major Hill Stream & Wetland Mitigation Site,Full Delivery,Active,Active,Cape Fear,03030002,03030002050050,Alamance,Central Piedmont,16.65945347,725682.8902829998,10313.5669731,1.0,540,,
+540,100017,Seniard Creek,Full Delivery,Active,Active,French Broad,06010105,06010105020020,Henderson,Southern Mountains,11.67918603,508743.30845,11660.9756695,1.0,541,1.0,1.0
+541,856,Little Pine Creek II,Design-Bid-Build,Active,Active,New,05050001,05050001030030,Alleghany,Northern Mountains,14.61245211,636515.867811,6436.64011017,1.0,542,1.0,1.0
+542,94803,Basket Creek Gorham,Design-Bid-Build,Active,Active,Tar-Pamlico,03020101,03020101010010,Nash,Northern Inner Coastal Plain,6.52446248,284204.448625,3850.83210705,1.0,543,,
+543,100057,Phantom Mill,Full Delivery,Active,Active,Cape Fear,03030002,03030002050050,Alamance,Central Piedmont,16.14188151,703140.358768,8901.55586965,1.0,544,,
+544,100014,Heron Stream & Wetland Mitigation Site,Full Delivery,Active,Active,Cape Fear,03030002,03030002050050,Alamance,Central Piedmont,17.64503947,768614.8450009999,13700.8828538,1.0,545,,
+545,96311,Abbey Lamm Stream and Wetland,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002050050,Alamance,Central Piedmont,17.37565305,756880.4191469998,10069.5315841,1.0,546,1.0,1.0
+546,100020,Whittier Creek,Full Delivery,Active,Active,Yadkin,03040101,03040101110040,Surry,Central Piedmont,6.96799298,303524.560197,6374.58245648,1.0,547,,
+547,92127,Melrose Mountain Tobey,Design-Bid-Build,Inactive,Long Term Mangement,Broad,03050105,03050105150010,Polk,Southern Piedmont,318.31899369,13865967.1737,29877.4208811,1.0,548,,
+548,100018,Shake Rag Branch,Full Delivery,Active,Active,French Broad,06010105,06010105110020,Madison,Northern Mountains,17.39486374,757720.2643199998,20226.0784784,1.0,549,1.0,1.0
+549,92273,McCotter-Raines (G),Full Delivery,Inactive,Long Term Mangement,Neuse,03020204,03020204010051,Jones,Southern Outer Coastal Plain,36.26835415,1579843.18748,6388.05653561,1.0,550,,
+550,100022,Catbird Site,Full Delivery,Active,Active,Yadkin,03040101,03040101160010,Davie,Central Piedmont,6.33081581,275769.233409,4567.98620949,1.0,551,,
+551,100021,Mockingbird Site,Full Delivery,Active,Active,Yadkin,03040101,03040101160010,Davie,Central Piedmont,27.46145615,1196221.0298,16425.1206429,1.0,552,1.0,1.0
+552,100061,Arabia Bay,Full Delivery,Active,Active,Cape Fear,03030004,03030004150011,Hoke,Southern Inner Coastal Plain,16.07953824,700421.884199,3083.54575521,1.0,553,,
+553,100044,Barefoot Project,Full Delivery,Active,Active,Neuse,03020201,03020201150040,Sampson,Southern Inner Coastal Plain,33.28695024,1449973.75274,6017.88532733,1.0,554,,
+554,100058,Slingshot,Full Delivery,Active,Active,Cape Fear,03030002,03030002010010,Rockingham,Central Piedmont,11.63281682,506723.473972,8102.31730308,1.0,555,,
+555,100086,Greenbrier Stream Restoration Site,Full Delivery,Active,Active,Yadkin,03040101,03040101130020,Yadkin,Central Piedmont,6.70754404,292179.449736,4215.63270252,1.0,556,1.0,1.0
+556,100054,Bear Swamp Stream & Wetland Site,Full Delivery,Active,Active,Lumber,03040203,03040203050010,Robeson,Southern Inner Coastal Plain,15.24861608,664229.716491,7062.91207928,1.0,557,,
+557,100055,Shaw's Run Stream & Wetland Site,Full Delivery,Active,Active,Lumber,03040203,03040203191010,Columbus,Southern Inner Coastal Plain,9.44059356,411230.610581,5403.54157432,1.0,558,,
+558,100039,Catfish Pond Mitigation Site,Full Delivery,Active,Active,Neuse,03020201,03020201020040,Durham,Central Piedmont,20.72145978,902623.177443,13803.1137464,1.0,559,,
+559,97082,Dry Creek Mitigation Site,Full Delivery,Active,Active,Neuse,03020201,03020201010050,Durham,Central Piedmont,29.76478511,1296548.85329,16073.36989,1.0,560,12.0,12.0
+560,100053,Rough Horn Swamp II Restoration Site,Full Delivery,Active,Active,Lumber,03040203,03040203191010,Columbus,Southern Inner Coastal Plain,62.33354654,2715238.42636,15500.879208,1.0,561,,
+561,100048,Alexander Farm,Full Delivery,Active,Active,Catawba,03050101,03050101130010,Alexander,Central Piedmont,21.98379117,957610.112821,12842.6637606,1.0,562,,
+562,100043,Matthew Project,Full Delivery,Active,Active,Neuse,03020201,03020201150020,Johnston,Northern Inner Coastal Plain,19.18998563,835912.4305549999,5201.46824664,1.0,563,,
+563,97081,Lake Wendell Mitigation Project,Full Delivery,Inactive,Long Term Mangement,Neuse,03020201,03020201180050,Johnston,Northern Inner Coastal Plain,11.96745144,521302.184915,8045.64971493,1.0,564,,
+564,100060,Sandy Branch,Full Delivery,Active,Active,Cape Fear,03030003,03030003070050,Chatham,Central Piedmont,18.09999993,788435.997126,6032.96312536,1.0,565,,
+565,97079,Pen Dell Mitigation Project,Full Delivery,Inactive,Long Term Mangement,Neuse,03020201,03020201180050,Johnston,Northern Inner Coastal Plain,15.95058713,694804.796347,10908.9890535,1.0,566,,
+566,100063,Apple Valley Project,Full Delivery,Active,Active,French Broad,06010105,06010105010040,Henderson,Southern Mountains,6.41707724,279527.884686,2845.81830135,1.0,567,,
+567,100066,Round Hill Branch Restoration Site,Full Delivery,Active,Active,French Broad,06010105,06010105090020,Buncombe,Southern Mountains,4.23539636,184493.865595,4332.58047521,1.0,568,,
+568,100082,Double H Farms Mitigation Site,Full Delivery,Active,Active,New,05050001,05050001030020,Alleghany,Northern Mountains,21.17099891,922208.713281,16857.3244072,1.0,569,,
+569,100107,Mangum Homestead,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030002,03030002060110,Orange,Central Piedmont,19.88355597,866127.697897,8113.3048494,1.0,570,,
+570,100085,Lyon Hills Mitigation Site,Full Delivery,Active,Active,Yadkin,03040101,03040101060030,Wilkes,Northern Mountains,20.71966881,902548.77339,17649.6496542,1.0,571,,
+571,100047,Blair Creek,Full Delivery,Active,Active,Hiwassee,06020002,06020002060010,Clay,Southern Mountains,10.02742263,436794.529605,7988.737375009999,1.0,572,,
+572,100083,Honey Mill Mitigation Site,Full Delivery,Active,Active,Yadkin,03040101,03040101010020,Surry,Central Piedmont,20.32497569,885355.9408739998,14555.3893587,1.0,573,,
+573,100042,Buffalo Creek Tributaries Mitigation Project,Full Delivery,Active,Active,Neuse,03020201,03020201180050,Johnston,Northern Inner Coastal Plain,17.12287878,745872.5994639999,9983.48280423,1.0,574,,
+574,100118,Pond Haven,Full Delivery,Active,Active,Tar-Pamlico,03020101,03020101010060,Granville,Central Piedmont,17.48354979,761583.428882,8158.301759709999,1.0,575,,
+575,100109,Bucky's Branch,Full Delivery,Active,Active,Cape Fear,03030003,03030003010060,Randolph,Central Piedmont,6.17467168,268968.698595,2341.49454981,1.0,576,,
+576,100111,Green Valley II,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030003,03030003010070,Randolph,Central Piedmont,7.19019844,313205.044076,5757.57569991,1.0,577,,
+577,100110,Rhapsody,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030003,03030003010060,Randolph,Central Piedmont,7.75379308,337755.226749,4530.14751948,1.0,578,,
+578,100119,Boseman,Full Delivery,Inactive,Long Term Mangement,Tar-Pamlico,03020101,03020101120030,Edgecombe,Central Piedmont,14.91940624,649889.335784,6942.88789852,1.0,579,,
+579,100108,Bohemian,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030003,03030003010050,Randolph,Central Piedmont,22.7814308,992359.125694,15089.8575615,1.0,580,,
+580,100038,McClenny Acres Mitigation Site,Full Delivery,Active,Active,Neuse,03020201,03020201200030,Wayne,Northern Inner Coastal Plain,54.24292452,2362821.79194,16545.0240256,1.0,581,,
+581,100064,Owen Farms Stream and Wetland Mitigation Site,Full Delivery,Active,Active,French Broad,06010105,06010105010020,Transylvania,Southern Mountains,25.19019488,1097284.88911,15212.8672627,1.0,582,,
+582,100077,Sliver Moon II NRW Mitigation Site,Full Delivery,Active,Active,Neuse,03020202,03020202080010,Craven,Southern Outer Coastal Plain,30.88946218,1345544.97254,7038.42386665,1.0,583,,
+583,100084,Bug Headwaters Mitigation Site,Full Delivery,Active,Active,Yadkin,03040101,03040101070010,Wilkes,Northern Mountains,22.7937373,992895.19696,16180.5080079,1.0,584,,
+584,100092,Brahma Site,Full Delivery,Active,Active,Cape Fear,03030002,03030002050050,Alamance,Central Piedmont,22.68820896,988298.382458,13665.9838698,1.0,585,,
+585,100027,Little Sebastian Site,Full Delivery,Active,Active,Yadkin,03040101,03040101080020,Surry,Central Piedmont,25.77124886,1122595.60046,17303.0551711,1.0,586,,
+586,100121,Nesbit Site,Full Delivery,Active,Active,Catawba,03050103,03050103030030,Union,Southern Piedmont,18.00559967,784323.9216259999,10701.587787,1.0,587,,
+587,100080,Banner Branch Mitigation Project,Full Delivery,Active,Active,Roanoke,03010103,03010103180010,Stokes,Central Piedmont,40.95429778,1783969.21128,26573.7236003,1.0,588,,
+588,194,Jacksonville Country Club,Design-Bid-Build,Active,Active,White Oak,03030001,03030001020010,Onslow,Southern Outer Coastal Plain,9.25666458,403220.309264,9363.32532205,1.0,589,,
+589,100068,UT to Rush Fork Stream Mitigation Project,Full Delivery,Active,Active,French Broad,06010106,06010106020010,Haywood,Southern Mountains,8.21089324,357666.509499,8634.57595673,1.0,590,,
+590,100112,White Mitigation Project,Full Delivery,Active,Active,Cape Fear,03030003,03030003010060,Randolph,Central Piedmont,12.1816148,530631.140807,6510.806819,1.0,591,,
+591,100093,Perry Hill Site,Full Delivery,Active,Active,Neuse,03020201,03020201030020,Orange,Central Piedmont,26.87587534,1170713.12992,11276.8651313,1.0,592,,
+592,100113,Eight-Point,Full Delivery,Active,Active,Cape Fear,03030003,03030003010050,Guilford,Central Piedmont,5.6641108,246728.66664,2070.41483424,1.0,593,,
+593,100076,Hornpipe Branch Tributaries,Full Delivery,Active,Active,Neuse,03020202,03020202050010,Lenoir,Southern Inner Coastal Plain,23.4261142,1020441.53438,9795.15925018,1.0,594,,
+594,100090,Carpenter Bottom,Full Delivery,Active,Active,Catawba,03050102,03050102050020,Gaston,Southern Piedmont,18.01842391,784882.545684,7690.20259086,1.0,595,,
+595,100122,Laurel Springs,Full Delivery,Active,Active,French Broad,06010108,06010108010020,Avery,Northern Mountains,29.18469906,1271285.49105,10743.3929982,1.0,596,,
+596,100094,Strawberry Hill Project,Full Delivery,Active,Active,Neuse,03020201,03020201140010,Johnston,Northern Inner Coastal Plain,22.11528209,963337.8346220001,13212.4042341,1.0,597,,
+597,100095,Cowford Project,Full Delivery,Active,Active,White Oak,03030001,03030001010010,Onslow,Southern Outer Coastal Plain,17.19715056,749107.878461,7232.69340164,1.0,598,,
+598,100136,Yarbro Site,Full Delivery,Active,Active,Broad,03050105,03050105100010,Lincoln,Southern Piedmont,33.05586307,1439913.39527,17255.4253525,1.0,599,,
+599,100139,Pierce Terrace,Full Delivery,Active,Active,Chowan,03010203,03010203040040,Gates,Northern Outer Coastal Plain,125.72761236,5476694.79444,19389.2789481,1.0,600,,
+600,100125,Dynamite Creek,Full Delivery,Active,Active,Roanoke,03010103,03010103230040,Rockingham,Central Piedmont,22.91768614,998294.408123,9400.55620767,1.0,601,,
+601,92218,Silver Creek-Conway,Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101050050,Burke,Northern Mountains,9.16270215,399127.305794,8650.878222769998,1.0,602,,
+602,92134,Roanoke River-IP-Blue Sky Timber Tract 42-14,Design-Bid-Build,Inactive,Long Term Mangement,Roanoke,03010107,03010107100020,Halifax,Northern Inner Coastal Plain,583.46737333,25415838.782,92640.7083917,1.0,603,,
+603,100059,Hip Bone Creek,Full Delivery,Active,Active,Cape Fear,03030003,03030003070020,Chatham,Central Piedmont,18.68497517,813917.518582,12649.637921,1.0,604,,
+604,92154,Wallace Deer Club (Blanchard Tract),Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030007,03030007100040,Pender,Southern Outer Coastal Plain,1349.08741341,58766247.728,39323.5913273,1.0,605,,
+605,295,Purlear Creek II,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101010090,Wilkes,Northern Mountains,7.84661977,341798.757359,9089.91202995,1.0,606,3.0,3.0
+606,294,Purlear Creek,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101010090,Wilkes,Northern Mountains,18.54687766,807901.990994,20550.5990499,1.0,607,3.0,3.0
+607,92158,Len's Knob & Little Mountain,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101080010,Surry,Central Piedmont,2149.14104938,93616584.1111,118675.847461,1.0,608,,
+608,100137,Bull Chute Site,Full Delivery,Active,Active,Yadkin,03040103,03040103050040,Randolph,Central Piedmont,31.73993084,1382591.38757,17619.3299672,1.0,609,,
+609,100123,Huntsman Site,Full Delivery,Active,Active,Yadkin,03040102,03040102020030,Wilkes,Northern Mountains,18.43776367,803148.9853199999,10636.9328369,1.0,610,,
+610,100135,Liberty Rock,Full Delivery,Active,Active,Cape Fear,03030003,03030003070010,Randolph,Central Piedmont,41.11660952,1791039.5108,7481.55056704,1.0,611,,
+611,100165,Crane,Full Delivery,Active,Active,Cape Fear,03030004,03030004070010,Lee,Southern Piedmont,27.66103854,1204914.8389,7526.83831943,1.0,612,,
+612,100138,Cross Creek Ranch Site,Full Delivery,Active,Active,Yadkin,03040104,03040104020020,Montgomery,Southern Piedmont,63.9300348,2784792.31593,28561.1186394,1.0,613,,
+613,100141,Big Branch Site,Full Delivery,Active,Active,Catawba,03050101,03050101130010,Alexander,Central Piedmont,38.64456302,1683357.16521,22026.8651757,1.0,614,,
+614,92210,Blounts Creek,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030004,03030004100050,Cumberland,Southern Inner Coastal Plain,27.48505419,1197248.96059,17351.9805816,1.0,615,,
+615,751,Jenny's Gut (Perquimans County High School),Design-Bid-Build,Active,Active,Pasquotank,03010205,03010205090020,Perquimans,Northern Outer Coastal Plain,9.63918206,419882.77069,5828.78424291,1.0,616,,
+616,100140,Laurel Valley Site,Full Delivery,Active,Active,Catawba,03050101,03050101060050,Burke,Northern Mountains,14.17056723,617269.90837,9104.96403121,1.0,617,,
+617,100166,Cool Springs,Full Delivery,Active,Active,Cape Fear,03030004,03030004010030,Harnett,Southern Inner Coastal Plain,21.12253491,920097.6205810001,14107.0665612,1.0,618,,
+618,100019,Warren Wilson College,Full Delivery,Active,Active,French Broad,06010105,06010105070030,Buncombe,Southern Mountains,25.28671272,1101489.20592,24435.0426132,1.0,619,,
+619,100067,Wyant Lands Mitigation Site,Full Delivery,Active,Active,Catawba,03050102,03050102040020,Lincoln,Southern Piedmont,41.31152071,1799529.85184,15669.5576764,1.0,620,,
+620,100164,Wits End,Full Delivery,Active,Active,Yadkin,03040105,03040105081020,Union,Southern Piedmont,71.75480543,3125639.44929,19921.2907238,1.0,621,,
+621,100595,Wyant Lands: Phase II - Project Expansion,Full Delivery,Active,Active,Catawba,03050102,03050102040020,Lincoln,Southern Piedmont,5.96578567,259869.623802,2277.70657679,1.0,622,,
+622,100189,Maple Swamp Buffer,Full Delivery,Active,Active,Tar-Pamlico,03020102,03020102060010,Edgecombe,Northern Inner Coastal Plain,8.12658472,353994.030599,4254.08008318,1.0,623,,
+623,100180,Anderson Farm,Full Delivery,Active,Active,Neuse,03020201,03020201170040,Wayne,Northern Inner Coastal Plain,12.1496777,529239.960705,6237.88821554,1.0,624,,
+624,100185,Thunder,Full Delivery,Active,Active,Neuse,03020201,03020201170030,Wayne,Northern Inner Coastal Plain,41.78326864,1820002.48266,13273.3661,1.0,625,,
+625,100190,Maple Swamp Wetland,Full Delivery,Active,Active,Tar-Pamlico,03020102,03020102060010,Edgecombe,Northern Inner Coastal Plain,15.34411149,668389.496475,4424.52152778,1.0,626,,
+626,95350,Pee Dee Stream Restoration Site,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040104,03040104020020,Montgomery,Southern Piedmont,21.00889338,915147.39561,14260.1196913,1.0,627,1.0,1.0
+627,92105,Mill Creek Steele,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101080010,Surry,Central Piedmont,14.73245426,641745.760684,3645.62015896,1.0,628,12.0,12.0
+628,95359,Poplin Ridge Site,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105070050,Union,Southern Piedmont,27.09785866,1181613.49526,18706.7230898,1.0,629,1.0,1.0
+629,100041,Odell's House Mitigation Project,Full Delivery,Active,Active,Neuse,03020201,03020201180050,Johnston,Northern Inner Coastal Plain,15.09084062,657357.01756,9442.42030082,1.0,630,,
+630,100069,Monkey Wall Project,Full Delivery,Active,Active,French Broad,06010108,06010108060010,Mitchell,Northern Mountains,25.28359335,1101387.82462,5019.15219662,1.0,631,,
+631,100142,Cool Run,Full Delivery,Active,Active,Lumber,03040207,03040207020060,Brunswick,Southern Outer Coastal Plain,25.56976821,1113819.1032,5626.05672296,1.0,632,,
+632,100128,Dales Creek Site,Full Delivery,Active,Active,French Broad,06010105,06010105090020,Buncombe,Southern Mountains,7.68134235,334599.272693,7320.60783792,1.0,633,,
+633,100120,Oak Hill Dairy Site,Full Delivery,Active,Active,Catawba,03050102,03050102050010,Gaston,Southern Piedmont,19.93630171,868425.3025099998,8537.0039885,1.0,634,,
+634,100115,Swamp Grape,Full Delivery,Active,Active,Lumber,03040204,03040204048010,Robeson,Southern Piedmont,24.68247907,1075168.78809,7743.9750665,1.0,635,,
+635,100114,Longhorn,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030003,03030003010060,Randolph,Central Piedmont,20.71345964,902278.301743,4939.14245422,1.0,636,,
+636,100170,Six Runs,Full Delivery,Active,Active,Cape Fear,03030006,03030006110010,Sampson,Southern Inner Coastal Plain,30.94008383,1347750.05173,14426.940038,1.0,637,,
+637,100191,Colonial Farms,Full Delivery,Active,Active,Tar-Pamlico,03020103,03020103010020,Edgecombe,Northern Inner Coastal Plain,21.81754992,950379.035771,4078.23057189,1.0,638,,
+638,95808,Owls Den Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Catawba,03050102,03050102040040,Lincoln,Southern Piedmont,12.86570781,560430.232206,4390.70875297,1.0,639,1.0,1.0
+639,94648,UT to Town Creek,Full Delivery,Inactive,Long Term Mangement,Yadkin,03040105,03040105060040,Stanly,Southern Piedmont,25.09515505,1093144.95396,12880.4864618,1.0,640,1.0,1.0
+640,100181,Thunder Swamp,Full Delivery,Active,Active,Neuse,03020201,03020201170030,Wayne,Northern Inner Coastal Plain,13.34227158,581189.350026,4559.74849197,1.0,641,,
+641,100171,Bridgefork Dairy,Full Delivery,Active,Active,Broad,03050105,03050105100020,Cleveland,Southern Piedmont,42.9208959,1869634.22561,23676.1930957,1.0,642,,
+642,100182,Little River Ford,Full Delivery,Active,Active,Neuse,03020201,03020201180060,Johnston,Northern Inner Coastal Plain,9.83492285,428409.239219,6776.75813102,1.0,643,,
+643,100186,Carraway Bluff,Full Delivery,Active,Active,Neuse,03020201,03020201170060,Wayne,Northern Inner Coastal Plain,25.34338833,1103957.99565,16188.0761587,1.0,644,,
+644,100127,Morgan Branch Site,Full Delivery,Active,Active,French Broad,06010105,06010105090020,Buncombe,Southern Mountains,38.2475989,1666065.4082,41348.2963395,1.0,645,,
+645,100175,Cornbread Valley,Full Delivery,Active,Active,Little Tennessee,06010202,06010202020030,Macon,Southern Mountains,18.3731694,800335.259131,18551.4771257,1.0,646,,
+646,100193,Stinking Quarter,Full Delivery,Active,Active,Cape Fear,03030002,03030002040070,Guilford,Central Piedmont,107.57890543,4686137.12038,44544.5458303,1.0,647,,
+647,100176,Kingfield,Full Delivery,Active,Active,Neuse,03020204,03020204010071,Jones,Southern Outer Coastal Plain,8.59278557,374301.739244,6349.54825725,1.0,648,,
+648,100183,Coor Island,Full Delivery,Active,Active,Neuse,03020201,03020201200030,Wayne,Northern Inner Coastal Plain,11.52000736,501811.520591,5675.44267477,1.0,649,,
+649,100062,Banner Farm Mitigation Site,Full Delivery,Active,Active,French Broad,06010105,06010105020010,Henderson,Southern Mountains,46.56013526,2028159.49178,15400.0550984,1.0,650,,
+650,100206,Oakley's Bend,Full Delivery,Active,Active,Tar-Pamlico,03020101,03020101010020,Person,Central Piedmont,47.38674807,2064166.74608,12750.6595964,1.0,651,,
+651,100210,Running Dog,Full Delivery,Active,Active,Yadkin,03040105,03040105030020,Union,Southern Piedmont,15.77720638,687255.109964,10003.4218586,1.0,652,,
+652,100188,Wicomico,Full Delivery,Active,Active,Tar-Pamlico,03020103,03020103010010,Edgecombe,Northern Inner Coastal Plain,4.35770737,189821.732901,4128.14664211,1.0,653,,
+653,94903,Little Pine Creek III,Design-Bid-Build,Inactive,Long Term Mangement,New,05050001,05050001030030,Alleghany,Northern Mountains,57.32376392,2497023.15639,26181.512252,1.0,654,4.0,4.0
+654,97080,Edwards-Johnson Mitigation Project,Full Delivery,Inactive,Long Term Mangement,Neuse,03020201,03020201180050,Johnston,Northern Inner Coastal Plain,10.96328529,477558.796936,6818.69041962,1.0,655,,
+655,100081,UT to Magness Creek,Full Delivery,Active,Active,Broad,03050105,03050105080060,Cleveland,Southern Piedmont,11.66355769,506834.771153,6441.92972227,1.0,656,,
+656,100196,Cow Branch,Full Delivery,Active,Active,Lumber,03040206,03040206060010,Columbus,Southern Inner Coastal Plain,34.39862789,1498404.23081,7430.067169719999,1.0,657,,
+657,100178,Sassafras,Full Delivery,Active,Active,Neuse,03020201,03020201200030,Wayne,Northern Inner Coastal Plain,12.57681298,547845.97358,9905.83811978,1.0,658,,
+658,100204,Haunted Creek,Full Delivery,Active,Active,Little Tennessee,06010202,06010202040040,Macon,Southern Mountains,12.79455175,557330.674016,4755.00832349,1.0,659,,
+659,100594,Bandys Farm,Full Delivery,Active,Active,Catawba,03050101,03050101150030,Catawba,Central Piedmont,31.89406427,1389305.43958,15705.2810779,1.0,660,,
+660,739,Big Harris Creek,Design-Build,Inactive,Long Term Mangement,Broad,03050105,03050105080060,Cleveland,Southern Piedmont,144.75903188,6305703.42866,75258.451585,1.0,661,1.0,1.0
+661,92762,Clarks Creek,Full Delivery,Active,Active,Yadkin,03040104,03040104020020,Montgomery,Southern Piedmont,24.90422827,1077219.17378,17731.7483951,1.0,662,,
+662,94151,North Fork Mountain Creek Mit. Site,Full Delivery,Inactive,Long Term Mangement,Catawba,03050101,03050101150030,Catawba,Central Piedmont,17.12154902,745814.6754609998,10188.5946245,1.0,663,1.0,1.0
+663,92224,Ballance Farm (Buffer) (G),Full Delivery,Inactive,Long Term Mangement,Neuse,03020203,03020203060020,Wayne,Northern Inner Coastal Plain,56.08787472,2443187.82262,16813.0433718,1.0,664,1.0,1.0
+664,100184,Pickle Creek,Full Delivery,Active,Active,Neuse,03020201,03020201170030,Wayne,Northern Inner Coastal Plain,18.08022998,787574.8179079999,12116.6058711,1.0,665,,
+665,100179,Chappels Creek,Full Delivery,Active,Active,Neuse,03020201,03020201010010,Person,Central Piedmont,49.2551558,2145554.58646,18488.2526578,1.0,666,,
+666,100192,Mushroom Meadow,Full Delivery,Active,Active,Roanoke,03010104,03010104021080,Caswell,Central Piedmont,32.36473204,1409807.72788,10360.4543821,1.0,667,,
+667,100650,Coor Island Phase B,Full Delivery,Active,Active,Neuse,03020201,03020201200030,Wayne,Northern Inner Coastal Plain,17.79857606,775305.972983,10247.6351272,1.0,668,,
+668,100593,Love Cats,Full Delivery,Active,Active,Catawba,03050102,03050102050010,Lincoln,Southern Piedmont,25.0730834,1092183.51285,12038.8230755,1.0,669,,
+669,95020,Byrd's Creek Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Neuse,03020201,03020201010020,Person,Central Piedmont,23.82118722,1037650.9151,13578.8789308,1.0,670,1.0,1.0
+670,100023,Stewarts Creek Tributaries,Full Delivery,Active,Active,Yadkin,03040101,03040101100010,Surry,Central Piedmont,29.97761647,1305819.74992,19539.2011978,1.0,671,,
+671,100045,Burnetts Chapel Phase 2,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030003,03030003010050,Guilford,Central Piedmont,7.49646404,326544.667537,13086.013504,1.0,672,,
+672,100025,Key Mill Site,Full Delivery,Active,Active,Yadkin,03040101,03040101110040,Surry,Central Piedmont,20.81110161,906527.959896,13554.35701,1.0,673,,
+673,100078,Wingfoot Riparian Buffer Mitigation Site,Full Delivery,Inactive,Long Term Mangement,Neuse,03020203,03020203070030,Pitt,Northern Inner Coastal Plain,22.31373088,971982.229005,10931.9743718,1.0,674,,
+674,100592,Riverbend,Full Delivery,Active,Active,Catawba,03050102,03050102040010,Lincoln,Southern Piedmont,31.91094967,1390040.96768,8590.30394702,1.0,675,,
+675,10073, , , , , , , , , ,49.89210807,2173300.22751,6803.43494438,1.0,676,,
+676,10012, , , , , , , , , ,0.37337501,16264.2152414,1000.37188164,1.0,677,,
+677,100172,Tiger Falls,Full Delivery,Active,Active,Broad,03050105,03050105100010,Cleveland,Southern Piedmont,34.84387269,1517799.09439,18517.8600506,1.0,678,,
+678,56,Bugaboo Creek,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101070010,Wilkes,Northern Mountains,16.3766919,527268.06676,13448.965703,1.0,679,1.0,1.0
+679,94687,Crooked Creek #2,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040105,03040105040010,Union,Southern Piedmont,54.63040101,2379700.26799,8737.723439159998,1.0,680,,
+680,100049,Groundhog Hollow,Full Delivery,Active,Active,Catawba,03050101,03050101120030,Alexander,Central Piedmont,20.57696074,896332.4096679998,12662.0981898,1.0,681,,
+681,92657,Little Warrior,Design-Bid-Build,Inactive,Long Term Mangement,Yadkin,03040101,03040101010110,Wilkes,Northern Mountains,14.74732876,642393.640674,7416.874289049998,1.0,682,,
+682,100203,Falcon Site,Full Delivery,Active,Active,Little Tennessee,06010202,06010202020030,Macon,Southern Mountains,15.42007938,671698.65763,15091.3616101,1.0,683,,
+683,100639,Big Buffalo,Full Delivery,Active,Active,Cape Fear,03030003,03030003070010,Chatham,Central Piedmont,88.32670584,3847511.30641,40252.6891149,1.0,684,,
+684,100628,Buckhead Subdivision,Design-Build,Active,Active,Cape Fear,03030004, ,Cumberland,Southern Inner Coastal Plain,4.42041344,192553.209461,3655.59974684,1.0,685,,
+685,100651,Thunder Phase B,Full Delivery,Active,Active,Neuse,03020201,03020201170030,Wayne,Northern Inner Coastal Plain,13.48483256,587399.30614,11509.0640834,1.0,686,,
+686,100647,Cow Tail,Full Delivery,Active,Active,Lumber,03040203,03040203190010,Columbus,Southern Inner Coastal Plain,60.3744235,2629909.88769,9761.47407029,1.0,687,,
+687,100637,Bluebird,Full Delivery,Active,Active,Cape Fear,03030003,03030003070020,Chatham,Central Piedmont,21.69161862,944886.9071970001,12350.3322591,1.0,688,,
+688,87,Chavis Park,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201,03020201090010,Wake,Central Piedmont,4.46603348,194540.418416,4591.58933515,1.0,689,4.0,4.0
+689,100636,Devil's Alley,Full Delivery,Active,Active,Cape Fear,03030003,03030003070010,Chatham,Central Piedmont,23.89837167,1041013.06989,12113.2062929,1.0,690,,
+690,100648,Kinlaw,Full Delivery,Active,Active,Cape Fear,03030004,03030004140020,Cumberland,Southern Inner Coastal Plain,29.40688062,1280963.71999,9693.63585707,1.0,691,,
+691,100652,Muscadine,Full Delivery,Active,Active,Neuse,03020201,03020201170030,Wayne,Northern Inner Coastal Plain,34.90867721,1520621.97923,11649.1799507,1.0,692,,
+692,100597,Casey Creek,Hybrid,Active,Active,Neuse,03020201,03020201170010,Wayne,Northern Inner Coastal Plain,25.09106553,1092966.81456,10438.1419297,1.0,693,,
+693,94799,PRMUSACE - HPS&R EPA Settlement,Design-Bid-Build,Inactive,Long Term Mangement,White Oak,03030001,03030001010010,Onslow,Southern Outer Coastal Plain,100.0000794,4356003.4587,9927.15969246,1.0,694,,
+694,264,Neu-Con MBI (Alexander),Full Delivery,Inactive,Credit Purchase Complete,Neuse,03020203,03020203050030,Greene,Northern Inner Coastal Plain,22.32089332,972298.113056,5155.70235521,1.0,695,,
+695,94798,PRMUSACE - Nucor Steel,Design-Bid-Build,Inactive,Long Term Mangement,Chowan,03010203,03010203010010,Hertford,Northern Outer Coastal Plain,150.39445504,6551182.46154,13248.2644568,1.0,696,,
+696,94802,Reed Creek,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105,06010105010010,Buncombe,Southern Mountains,1.32040907,57517.0192225,2248.13012602,1.0,697,,
+697,442,UT to West Fork of Deep River (G),Design-Bid-Build,Active,Active,Cape Fear,03030003,03030003010010,Guilford,Central Piedmont,16.62192995,724051.268686,9988.76253529,1.0,698,,
+698,100046,RES Randleman Group A,Full Delivery,Inactive,Long Term Mangement,Cape Fear,03030003,03030003010060,Randolph,Central Piedmont,50.52943557,2201062.21327,23479.6105374,1.0,699,1.0,1.0
+699,100129,PRMUSACE - Holiday Shores,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,0.50003694,21781.522047,838.835504753,1.0,700,,
+700,100040,Sassarixa Swamp Mitigation Site,Full Delivery,Active,Active,Neuse,03020201,03020201130030,Johnston,Northern Inner Coastal Plain,64.86014585,2825307.95309,28986.8910693,1.0,701,,
+701,100026,Horne Creek Tributaries,Full Delivery,Active,Active,Yadkin,03040101,03040101110070,Surry,Central Piedmont,11.85213467,516007.869713,10856.6347663,1.0,702,,
+702,100205,Valle Crucis Site,Full Delivery,Active,Active,Watauga,06010103,06010103010010,Watauga,Northern Mountains,13.25230521,577270.414839,10891.2481879,1.0,703,,
+703,100646,Angel Farm,Full Delivery,Active,Active,Roanoke,03010104,03010104021020,Caswell,Central Piedmont,20.28144497,883459.74279,10222.0891176,1.0,704,,
+704,100623,PRMUSACE - Grey Fox Run,Design-Bid-Build,Inactive,Long Term Mangement,Tar-Pamlico,03020103, ,Pitt,Northern Inner Coastal Plain,3.75725792,163666.15499,1724.20678209,1.0,705,,
+705,100131,PRMUSACE - Biltmore Farms,Design-Bid-Build,Inactive,Long Term Mangement,French Broad,06010105, ,Buncombe,Southern Mountains,12.33600412,544512.041227,16142.8618379,1.0,706,,
+706,100609,PRMUSACE - William H Holmes IV,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,0.32162085,14009.8042172,568.365739932,1.0,707,,
+707,100608,PRMUSACE - Charles D Hinson,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,0.4454606,7788.34236682,568.292071157,1.0,708,,
+708,100148,PRMUSACE - Adams Landing,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Pasquotank,Northern Outer Coastal Plain,22.47277424,978914.046006,15005.342749,1.0,709,,
+709,100202,PRMUSACE - Doerr,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,0.99469697,43329.0001752,1563.3304423,1.0,710,,
+710,100616,PRMUSACE - Oscar Y Rivera,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,0.52228016,22750.523792,1396.58056873,1.0,711,,
+711,100088,PRMUSACE - 3M Deep River Moncure Site,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030004, ,Lee,Southern Piedmont,67.69088759,2948615.06348,8571.72924745,1.0,712,,
+712,100624,PRMUSACE - Western Dare LLC,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,6.5188401,283960.674694,3309.43586935,1.0,713,,
+713,100610,PRMUSACE - Julia A Appleget,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,0.09585399,4175.39979274,277.674257635,1.0,714,,
+714,100611,PRMUSACE - Kinnakeet Shores Lot 1704,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,0.328223,14297.3937713,588.011394647,1.0,715,,
+715,100618,PRMUSACE - The Villages at Ocean Hill,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Currituck,Northern Outer Coastal Plain,6.94635342,302583.155134,8270.1982135,1.0,716,,
+716,100620,PRMUSACE - Carlyle on the Sound 2,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,7.12329149,310290.577382,4061.4928368,1.0,717,,
+717,100617,PRMUSACE - River's Edge,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Perquimans,Northern Outer Coastal Plain,8.41623618,366611.248206,3514.98402279,1.0,718,,
+718,100629,PRMUSACE - Hatteras Kinnakeet Assn at Avon LLC,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,0.20000173,8712.075362409998,375.539809046,1.0,719,,
+719,100619,PRMUSACE - Carlyle on the Sound,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,7.5927847,330741.701654,3917.04008528,1.0,720,,
+720,100621,PRMUSACE - Bramble West,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,6.16628389,268603.326037,4957.98860491,1.0,721,,
+721,100604,PRMUSACE - Kitty Hawk Woods Lot 422,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,0.03592573,1564.92472247,176.434362139,1.0,722,,
+722,100612,PRMUSACE - Mann's Harbor,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,0.6105293,26594.6562227,1021.95387048,1.0,723,,
+723,100631,PRMUSACE - Lowe's Home Centers Inc.,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Currituck,Northern Outer Coastal Plain,20.22319427,880922.342587,4417.00030549,1.0,724,,
+724,100632,PRMUSACE - Builders Discount Ctr,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020204, ,Craven,Southern Outer Coastal Plain,2.65994611,115867.252617,3023.90808498,1.0,725,,
+725,100626,PRMUSACE - 1548 Duck Road,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,0.08806162,3835.96407222,258.773471535,1.0,726,,
+726,100614,PRMUSACE - Panther Creek Cary Park,Design-Bid-Build,Inactive,Long Term Mangement,Neuse,03020201, ,Wake,Central Piedmont,35.8299745,1560854.19044,12021.8234086,1.0,727,,
+727,100606,PRMUSACE - Self & Stallings,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,0.15816206,6889.53947283,375.719212269,1.0,728,,
+728,100641,Golden Hills,Full Delivery,Active,Active,Cape Fear,03030003,03030003010080,Guilford,Central Piedmont,52.14083757,2271254.88466,24125.8388103,1.0,729,,
+729,100645,Totten,Full Delivery,Active,Active,Tar-Pamlico,03020101,03020101020010,Granville,Central Piedmont,30.18842398,1315007.74867,7300.10219209,1.0,730,,
+730,100151,Middendorf Springs,Full Delivery,Active,Active,Yadkin,03040201,03040201020030,Anson,Southern Piedmont,74.35871697999998,3239065.7117,43902.1379372,1.0,731,,
+731,92609,Four Mile Creek - DBB,Design-Bid-Build,Active,Active,Catawba,03050103,03050103020070,Mecklenburg,Southern Piedmont,9.04529624,394013.104169,7820.62078665,1.0,732,,
+732,100124,PRMUSACE - Bermuda Bay,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,3.09814471,134955.183597,2551.5062157,1.0,733,,
+733,100640,Big Bison,Full Delivery,Active,Active,Cape Fear,03030003,03030003020070,Chatham,Central Piedmont,60.75701569,2646575.60337,31184.6542762,1.0,734,,
+734,100642,Hunter's Moon,Full Delivery,Active,Active,Cape Fear,03030003,03030003070020,Chatham,Central Piedmont,37.24995143,1622607.88445,17084.280882,1.0,735,,
+735,100644,Cannonball,Full Delivery,Active,Active,Catawba,03050102,03050102070020,Gaston,Southern Piedmont,47.62042335,2074345.64133,10146.6916933,1.0,736,,
+736,100655,Big Alamance,Full Delivery,Active,Active,Cape Fear,03030002,03030002040010,Guilford,Central Piedmont,25.11062281,1093818.72966,11450.4002027,1.0,737,,
+737,100679,Heron Falls,Full Delivery,Active,Active,Catawba,03050101,03050101100030,Caldwell,Northern Mountains,35.13567732,1530510.10402,19628.5010146,1.0,738,,
+738,100638,Dirty Boots,Full Delivery,Active,Active,Cape Fear,03030003,03030003070050,Chatham,Central Piedmont,13.8243267,602187.670845,7732.88928438,1.0,739,,
+739,100680,Whiskey Jug,Full Delivery,Active,Active,Catawba,03050101,03050101140010,Catawba,Central Piedmont,49.54046731,2157982.75583,14854.5629998,1.0,740,,
+740,100643,Mudhoney,Full Delivery,Active,Active,Cape Fear,03030003,03030003070050,Chatham,Central Piedmont,32.04291872,1395789.53938,17000.9092769,1.0,741,,
+741,100653,Stoney Creek Wayne Community College Flood Resiliency Project,Full Delivery,Active,Active,Neuse,03020202, ,Wayne,Northern Inner Coastal Plain,12.1725612,530236.765742,3202.51298727,1.0,742,,
+742,100627,Providence Flat Swamp Forest,Design-Bid-Build,Active,Active,Catawba,03050101, ,Mecklenburg,Southern Piedmont,17.88365013,779011.7996689999,4225.32327337,1.0,743,,
+743,100681,Azalee,Full Delivery,Active,Active,Yadkin,03040201,03040201020030,Anson,Southern Piedmont,25.01382286,1089602.12377,7876.49767088,1.0,744,,
+744,100605,PRMUSACE - Skyco Warehouse,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,0.56999942,24829.1748542,774.725100922,1.0,745,,
+745,100656,Moon Cabin,Full Delivery,Active,Active,Yadkin,03040105,03040105030020,Union,Southern Piedmont,11.15778295,486033.02513,5929.89792481,1.0,746,,
+746,100676,Baha Branch,Full Delivery,Active,Active,White Oak,03030001,03030001010030,Onslow,Southern Outer Coastal Plain,39.09534698,1702993.31431,8644.387390179998,1.0,747,,
+747,100622,PRMUSACE - Topsail High School Expansion,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030007, ,Pender,Southern Outer Coastal Plain,25.10337501,1093503.01553,5366.02786396,1.0,748,,
+748,100613,PRMUSACE - Mann's Harbor Mashoes Road Gates Property,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,0.99975903,43549.5032647,2561.507449,1.0,749,,
+749,100630,PRMUSACE - Swan View Shores,Design-Bid-Build,Inactive,Long Term Mangement,Pasquotank,03010205, ,Dare,Northern Outer Coastal Plain,0.97356081,42408.3089037,1637.81930628,1.0,750,,
+750,100694,Thunder Rolls,Full Delivery,Active,Active,Neuse,03020201,03020201170050,Wayne,Northern Inner Coastal Plain,11.4620694,499287.743167,8208.33002551,1.0,751,,
+751,100678,Hulsey,Full Delivery,Active,Active,Cape Fear,03030004,03030004070010,Moore,Southern Piedmont,35.99526446,1567953.91713,15862.8732999,1.0,752,,
+752,100602,PRMUSACE - 3M Rocky River,Design-Bid-Build,Inactive,Long Term Mangement,Cape Fear,03030003, ,Chatham,Central Piedmont,38.60134801,1681474.71924,9638.99751456,1.0,753,,
+753,100693,Crazy Diamond,Full Delivery,Active,Active,Yadkin,03040105,03040105081060,Anson,Southern Piedmont,31.65727453,1378990.87844,8226.035129649998,1.0,754,,
+754,221,Little Beaver Creek,Design-Bid-Build,Active,Active,Cape Fear,03030002,03030002060160,Wake,Central Piedmont,55.80955587,2431064.25358,12253.372044,1.0,755,1.0,1.0
